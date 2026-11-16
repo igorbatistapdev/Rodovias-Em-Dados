@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="60" viewBox="0 0 390 60" role="img" aria-labelledby="title desc">
+ <title id="title">Acessar artigo interativo</title><desc id="desc">Botão verde-floresta para abrir o artigo Rodovias em Dados</desc>
+ <rect x="1" y="1" width="388" height="58" rx="9" fill="#234D40" stroke="#183C32" stroke-width="2"/>
+ <path d="M13 1h4v58h-4z" fill="#CDA16B"/>
+ <g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+  <text x="38" y="36" font-weight="700" font-size="18" letter-spacing=".0">ACESSAR ARTIGO INTERATIVO</text>
+ </g>
+ <path d="M349 37 L364 22 M353 22 H364 V33" fill="none" stroke="#EBD6B7" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
