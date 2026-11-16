@@ -1,49 +1,106 @@
-# Rodovias em Dados · Edição final para publicação (v5.1)
+<div align="center">
 
-**Análise temporal, estatística e geoespacial dos sinistros nas rodovias federais brasileiras (2023–2025).**
+<a href="https://igorbatistapdev.github.io/Rodovias-Em-Dados/" title="Abrir o artigo científico interativo">
+  <img src="assets/readme-cover.svg" alt="Capa editorial do projeto Rodovias em Dados, com recorte 2023–2025 e indicadores da PRF" width="100%">
+</a>
 
-Artigo científico digital independente, desenvolvido no curso de **Sistemas de Informação – Unilasalle RJ**, por **Igor Batista Pereira**, para a disciplina Linguagem de Programação, ministrada pelo professor **Alexandre Neves Louzada**.
+<br>
 
-## Edição revisada v5.1
+<a href="https://igorbatistapdev.github.io/Rodovias-Em-Dados/" title="Explorar o artigo no GitHub Pages">
+  <img src="assets/readme-cta.svg" alt="Acessar artigo interativo" width="390">
+</a>
 
-Esta versão implementa a **direção visual B — Jornalismo de Dados em edição minimalista**. O objetivo é valorizar a leitura acadêmica e os gráficos, eliminando caixas e decorações desnecessárias. O conteúdo é baseado em cálculos verificáveis dos arquivos de acidentes agrupados por ocorrência disponibilizados pela **Polícia Rodoviária Federal (PRF)**.
+<br>
 
-- **Abertura editorial sem imagem:** título, subtítulo, autoria, recorte e fonte sem painel lateral.
-- **Indicadores alinhados:** uma faixa tipográfica de números com divisórias discretas.
-- **Três perguntas de pesquisa:** cards numerados 01/02/03, vinculados aos respectivos resultados.
-- **Metodologia mais leve:** pipeline de cinco etapas, texto preciso e nota explicativa recolhível.
-- **Resultados com narrativa científica:** títulos interpretativos, gráficos amplos, comparações, legendas e ressalvas.
-- **Visualizações interativas preservadas:** séries anual/mensal, distribuição por horário/dia, tipos de sinistro, gravidade e rankings territoriais.
-- **FAIR compacto:** quatro linhas, reprodução detalhada expansível e exportações CSV/JSON.
-- **Sem mapa e sem modo escuro:** removidos da interface conforme as decisões de design.
-- **PDF A4:** gráficos vetoriais em impressão, numeração de páginas, referências separadas e quebras revisadas.
-- **CSS único reorganizado:** removeu camadas de versões anteriores e manteve a hierarquia mobile.
+[**Ler artigo em PDF**](previews/Rodovias_em_Dados_2026_Artigo_Final_ABNT.pdf) &nbsp;·&nbsp; [**Explorar dados**](data/processed/) &nbsp;·&nbsp; [**Metodologia e execução**](#metodologia-e-reprodutibilidade)
 
-## Visualização imediata, sem instalar Python
+<sub>Artigo científico digital · Sistemas de Informação · Unilasalle RJ · 2026</sub>
 
-Extraia o arquivo ZIP. Abra **`docs/index.html`** em um navegador atualizado. A página utiliza dados agregados incorporados ao HTML e funciona localmente; a conexão é opcional para carregar as fontes do Google. A aparência mantém fontes alternativas quando não houver conexão.
+</div>
 
-Para visualizar pelo servidor local (recomendado durante desenvolvimento):
+---
 
-```bash
-python -m http.server 8000 -d docs
+## Sobre a pesquisa
+
+**Rodovias em Dados** é um artigo científico digital sobre a evolução temporal, os padrões de gravidade e a distribuição territorial dos sinistros registrados nas rodovias federais brasileiras de **2023 a 2025**.
+
+A pesquisa parte dos microdados públicos da **Polícia Rodoviária Federal (PRF)**, processados por um pipeline reproduzível em Python. O resultado combina **análise exploratória, gráficos interativos e interpretação científica** em uma publicação web responsiva, acompanhada de uma versão em PDF A4.
+
+O estudo foi desenvolvido por **Igor Batista Pereira**, no curso de **Sistemas de Informação da Unilasalle RJ**, na disciplina **Linguagem de Programação**, ministrada pelo professor **Alexandre Neves Louzada**.
+
+### A pesquisa em números
+
+| Indicador | 2023–2025 |
+| :--- | ---: |
+| **Sinistros analisados** | **213.497** |
+| Pessoas feridas | 246.608 |
+| Mortes registradas | 17.833 |
+| Ocorrências com ao menos uma morte | 15.293 |
+
+<sub>Fonte: microdados de acidentes agrupados por ocorrência da PRF/BAT. Mortes são pessoas falecidas; ocorrências com morte são registros com ao menos uma vítima fatal. Contagens absolutas não equivalem a taxas de risco ajustadas ao tráfego.</sub>
+
+### Perguntas que orientam o estudo
+
+| Eixo | Investigação |
+| :--- | :--- |
+| **01 · Evolução temporal** | Como os sinistros variaram entre anos e meses do período? |
+| **02 · Padrões e gravidade** | Quais padrões surgem nos horários, dias, tipos e níveis de gravidade? |
+| **03 · Distribuição territorial** | Como os registros se distribuem por unidade federativa e rodovia federal? |
+
+## Explore a experiência
+
+O artigo segue uma direção visual de **jornalismo de dados minimalista**: leitura vertical, tipografia editorial, visualizações com cores distintas, notas metodológicas e navegação adaptada ao celular.
+
+<table>
+  <tr>
+    <td width="70%" align="center"><img src="previews/Preview_desktop_final.png" alt="Captura real da versão desktop do artigo Rodovias em Dados" width="100%"></td>
+    <td width="30%" align="center"><img src="previews/Preview_mobile_final.png" alt="Captura real da versão mobile do artigo Rodovias em Dados" width="100%"></td>
+  </tr>
+  <tr><td align="center"><sub>Desktop</sub></td><td align="center"><sub>Mobile</sub></td></tr>
+</table>
+
+<div align="center">
+
+**[Explorar os resultados no artigo interativo ↗](https://igorbatistapdev.github.io/Rodovias-Em-Dados/)**
+
+</div>
+
+## Metodologia e reprodutibilidade
+
+O processamento preserva os arquivos originais, registra verificações de qualidade e produz as agregações e visualizações utilizadas pelo artigo.
+
+```text
+Dados abertos PRF/BAT (2023, 2024 e 2025)
+                     ↓
+            Leitura e validação
+                     ↓
+          Limpeza e padronização
+                     ↓
+          Análise exploratória
+                     ↓
+         Agregações e gráficos
+                     ↓
+          Artigo HTML + PDF A4
 ```
 
-Acesse `http://localhost:8000`.
+| Tecnologia | Finalidade |
+| :--- | :--- |
+| **Python, Pandas e NumPy** | Processamento, validação e agregação dos dados |
+| **SQLite** | Persistência de resultados derivados |
+| **HTML, CSS e JavaScript** | Publicação responsiva e interatividade |
+| **Matplotlib e SVG** | Figuras vetoriais para impressão |
+| **Pytest** | Testes automatizados |
+| **GitHub Pages** | Hospedagem estática do artigo em `docs/` |
 
-## Como executar no Windows
+<details>
+<summary><strong>Como executar no Windows com VS Code</strong></summary>
 
-O projeto foi testado em **Python 3.13.5**. A combinação de dependências congeladas suporta Python **3.11 a 3.13**; ela não foi validada no Python 3.14.
+<br>
 
-Se você tiver apenas Python 3.14, pode instalar o 3.13 sem remover a versão atual:
+O pipeline foi validado no Python 3.13.5. A combinação de dependências não foi validada no Python 3.14.
 
 ```powershell
-winget install --id Python.Python.3.13 --exact --source winget
-```
-
-Feche e reabra o terminal para reconhecer a instalação. Na raiz do projeto, execute:
-
-```powershell
+# Na raiz do repositório
 py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
@@ -52,9 +109,14 @@ py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe -m http.server 8000 -d docs
 ```
 
-Há também um auxiliar opcional: `scripts/configurar_windows.ps1` (executar com PowerShell e permissão de script adequada), que verifica o Python 3.13, cria o ambiente e instala as dependências.
+Acesse **http://localhost:8000**. Para somente visualizar o site gerado, basta executar `python -m http.server 8000 -d docs`; não é necessário instalar Pandas. O terminal do servidor permanece ocupado até pressionar `Ctrl+C`.
 
-### Linux/macOS
+</details>
+
+<details>
+<summary><strong>Executar no Linux / macOS</strong></summary>
+
+<br>
 
 ```bash
 python3.13 -m venv .venv
@@ -65,70 +127,68 @@ python -m pytest -q
 python -m http.server 8000 -d docs
 ```
 
-## Onde editar o design e o conteúdo
+</details>
 
-| Arquivo | Responsabilidade |
-|---|---|
-| `templates/article.html` | Estrutura editorial e texto acadêmico: **fonte do HTML** |
-| `docs/assets/css/style.css` | Design minimalista e responsividade da versão 5.0 |
-| `docs/assets/css/print.css` | Paginação e impressão A4 |
-| `docs/assets/js/main.js` | Séries temporais, tipos, gravidade e ranking |
-| `docs/assets/js/interactions.js` | Gráfico horário, downloads, navegação e impressão |
-| `src/etl.py` | Processamento e agregação dos microdados PRF |
-| `src/visualizations.py` | Figuras vetoriais do PDF |
-| `src/persist.py` | Banco SQLite derivado |
-| `scripts/run_pipeline.py` | Orquestra a execução de todos os componentes |
-| `scripts/refinar_artigo.py` | Renderiza `templates/article.html` em `docs/index.html` |
+<details>
+<summary><strong>Estrutura do código e arquivos principais</strong></summary>
 
-**Não edite `docs/index.html` diretamente**: o pipeline recria esse arquivo a partir do template. Imagens do protótipo de design não foram usadas como fonte de dados.
+<br>
 
-## Resultados dos arquivos PRF utilizados
+| Arquivo | Função |
+| :--- | :--- |
+| [`templates/article.html`](templates/article.html) | **Fonte editorial** do HTML gerado |
+| [`docs/index.html`](docs/index.html) | Site publicado pelo GitHub Pages |
+| [`docs/assets/css/style.css`](docs/assets/css/style.css) | Identidade visual e responsividade |
+| [`docs/assets/css/print.css`](docs/assets/css/print.css) | Paginação e impressão A4 |
+| [`docs/assets/js/`](docs/assets/js/) | Gráficos e interações |
+| [`src/etl.py`](src/etl.py) | ETL, qualidade e agregações |
+| [`src/visualizations.py`](src/visualizations.py) | Gráficos vetoriais da impressão |
+| [`scripts/run_pipeline.py`](scripts/run_pipeline.py) | Orquestra o processamento |
+| [`scripts/refinar_artigo.py`](scripts/refinar_artigo.py) | Renderiza o template em `docs/index.html` |
+| [`data/raw/`](data/raw/) | Arquivos originais da PRF |
+| [`data/processed/`](data/processed/) | Tabelas, auditoria e resultados |
+| [`tests/`](tests/) | Testes automatizados |
 
-| Ano | Sinistros | Mortes | Feridos | Sinistros com morte |
-|---|---:|---:|---:|---:|
-| 2023 | 67.766 | 5.627 | 78.463 | 4.858 |
-| 2024 | 73.202 | 6.163 | 84.595 | 5.225 |
-| 2025 | 72.529 | 6.043 | 83.550 | 5.210 |
-| **Total** | **213.497** | **17.833** | **246.608** | **15.293** |
+> **Atenção:** alterações em `docs/index.html` podem ser sobrescritas pela execução do pipeline. Para editar o artigo, use `templates/article.html`.
 
-Os três ZIPs originais estão preservados em `data/raw/`; a auditoria de qualidade, a origem e os hashes SHA-256 ficam em `data/processed/auditoria.json`. **Sinistros com morte não equivalem à quantidade de mortes**: um registro pode envolver mais de uma vítima fatal. Contagens absolutas não medem risco ajustado pelo fluxo de tráfego.
+</details>
 
-Fonte: [portal oficial de dados abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf) · [dicionário de dados](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dicionario-acidentes).
+## Ciência aberta, fontes e limites
 
-## Como imprimir ou salvar em PDF
+O projeto documenta a proveniência, a integridade e as transformações dos dados, orientado pelos princípios **FAIR** (*Findable, Accessible, Interoperable, Reusable*).
 
-No artigo, clique em **Imprimir / PDF** e selecione “Salvar como PDF”. Recomendações para Edge/Chrome: papel **A4**, escala **100%**, orientação **retrato**, gráficos de fundo ativados e cabeçalho/rodapé nativos desativados. O CSS publica figuras SVG vetoriais estáticas no lugar dos gráficos JavaScript. Uma exportação de referência está em `previews/Rodovias_em_Dados_2026_Artigo_Final_ABNT.pdf`.
+- **Fontes oficiais:** [Dados abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf) · [Dicionário de dados da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dicionario-acidentes).
+- **Auditoria e rastreabilidade:** [`data/processed/auditoria.json`](data/processed/auditoria.json), com hashes SHA-256, validações e referências aos arquivos de origem.
+- **Agregados e arquivos:** [`data/processed/`](data/processed/) e as exportações disponíveis no artigo.
+- **Referências científicas:** [revisão bibliográfica e ABNT](REFERENCIAS_E_ABNT.md), orientada pelas NBR 6023:2025 e NBR 10520:2023.
 
-## Publicação GitHub Pages
+**Limitações:** a análise é exploratória e descritiva, sem inferências causais. Comparações de contagens entre localidades não equivalem a comparações de risco ajustado à circulação de veículos.
 
-**Repositório identificado:** [igorbatistapdev/Rodovias-Em-Dados](https://github.com/igorbatistapdev/Rodovias-Em-Dados). Ele existe e estava vazio na preparação deste pacote, em 16/11/2026. O código-fonte deve ser enviado pela pasta raiz do projeto; o GitHub Pages deverá publicar o diretório `/docs` da branch `main`. O cabeçalho do artigo já aponta para o repositório correto.
+## Qualidade e documentação
 
-**URL prevista do artigo após ativar Pages:** `https://igorbatistapdev.github.io/Rodovias-Em-Dados/`. Este endereço ainda precisa ser confirmado no painel **Settings → Pages**, pois o site não foi publicado nesta etapa.
+A edição v5.1 registra **23 testes automatizados aprovados**, além de verificações locais em larguras de 1440, 768, 390 e 360 pixels. As evidências e limitações dessas verificações estão detalhadas no relatório de qualidade; o deploy público exige conferência própria.
 
-Siga `GUIA_PUBLICACAO_GITHUB_PAGES.md` para os comandos de envio e o checklist de validação.
+| Documento | Acesso |
+| :--- | :--- |
+| Relatório de qualidade | [`RELATORIO_QA.md`](RELATORIO_QA.md) |
+| Revisão das referências | [`REFERENCIAS_E_ABNT.md`](REFERENCIAS_E_ABNT.md) |
+| Guia de publicação | [`GUIA_PUBLICACAO_GITHUB_PAGES.md`](GUIA_PUBLICACAO_GITHUB_PAGES.md) |
+| Artigo em PDF | [Abrir PDF](previews/Rodovias_em_Dados_2026_Artigo_Final_ABNT.pdf) |
+| Metadados para citação | [`CITATION.cff`](CITATION.cff) |
 
-## Ciência aberta, limites e licenças
+A publicação pelo GitHub Pages disponibiliza os arquivos estáticos em `docs/`. O processamento Python é executado antes da publicação.
 
-O projeto documenta princípios FAIR (Findable, Accessible, Interoperable, Reusable), processa e distribui agregados abertos em CSV e JSON, fornece scripts e testes e registra a proveniência dos arquivos. Código autoral: licença MIT. Consulte `LICENSE-CONTENT.md` para os termos de figuras/textos e a PRF para os dados originais.
+## Autoria e licenças
 
-**Limites:** o estudo é exploratório e descritivo. Não estabelece causalidade nem risco comparativo ajustado à exposição ao tráfego. A revisão bibliográfica e a conferência de links foram realizadas na edição final; ainda falta a publicação pública e a validação do ambiente Windows do autor. A validação em Windows e a publicação real no GitHub Pages não foram realizadas nesta sessão.
+**Igor Batista Pereira** · Sistemas de Informação — Unilasalle RJ  
+**Disciplina:** Linguagem de Programação · **Professor:** Alexandre Neves Louzada
 
-## Verificações da edição final
+O código autoral segue a [licença MIT](LICENSE). Texto e visualizações originais seguem os termos indicados em [LICENSE-CONTENT.md](LICENSE-CONTENT.md), incluindo CC BY 4.0. Os microdados da PRF preservam as condições da fonte original.
 
-- Pipeline Python: executado com sucesso sobre os três arquivos originais.
-- Testes automatizados: suíte revisada e execução registrada em `RELATORIO_QA.md`.
-- Chromium: **1440, 768, 390 e 360 px**, sem rolagem horizontal ou erros de JS.
-- Interações: séries anual/mensal, gravidade, ranking por rodovia e dias da semana.
-- Impressão PDF: 9 páginas A4, figuras SVG, Abstract em página nova e referências em página própria.
+<div align="center">
 
-Veja `RELATORIO_QA.md`, `CHANGELOG.md` e `DESIGN_SYSTEM_V5.md` para os detalhes técnicos e editoriais.
+---
 
+<sub>Rodovias em Dados · Pesquisa acadêmica com dados públicos · 2026</sub>
 
-## Revisão final da edição 2026 (v5.1)
-
-- **Cores científicas:** azul para evolução/horários, cobre para morte/gravidade, roxo para território, dourado e tons complementares nos tipos de sinistro. Verde permanece na identidade institucional.
-- **ABNT:** referências revistas segundo NBR 6023:2025; sistema autor-data em conformidade com NBR 10520:2023 e links para páginas oficiais/versões abertas. Detalhes em `REFERENCIAS_E_ABNT.md`.
-- **Pesquisa:** resumo/abstract com dados da extração, metodologias explícitas e trecho real do ETL no artigo; nenhuma inferência causal indevida.
-- **PDF A4:** arquivo revisado em `previews/Rodovias_em_Dados_2026_Artigo_Final_ABNT.pdf`; navegação e interações ocultadas apenas na impressão.
-- **Vídeo:** auditoria visual orientada pelas telas apresentadas no arquivo de referência; ver `AUDITORIA_FINAL_DO_VIDEO.md`.
-- **Estado:** edição final local pronta para publicação, **ainda não publicada** no GitHub Pages. A nota final depende da rubrica e da avaliação do professor.
+</div>
