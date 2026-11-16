@@ -1,0 +1,15 @@
+# Requer Python 3.11-3.13; recomendado Python 3.13 para Windows.
+# pandas==2.2.3 nao possui wheel para Python 3.14 (cp314) no Windows.
+# Versões fixadas e testadas neste ambiente de desenvolvimento.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+seaborn==0.13.2
+SQLAlchemy==2.0.50
+beautifulsoup4==4.14.3
+# Download opcional dos arquivos originais, caso seja necessário substituir ZIPs.
+gdown==5.2.0
+# Testes do pipeline
+pytest==9.0.2
+# Template desacoplado dos cálculos e do layout do artigo
+Jinja2==3.1.6

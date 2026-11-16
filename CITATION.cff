@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se utilizar este trabalho acadêmico, cite a autoria, o título, o período e a fonte PRF."
+title: "Rodovias em Dados: análise temporal, estatística e geoespacial dos sinistros nas rodovias federais brasileiras entre 2023 e 2025"
+type: software
+authors:
+  - family-names: Pereira
+    given-names: Igor Batista
+version: 5.1.0
+date-released: 2026-11-12
+keywords:
+  - segurança viária
+  - sinistros de trânsito
+  - Polícia Rodoviária Federal
+  - ciência de dados
+  - FAIR
+license: MIT
+
+repository-code: https://github.com/igorbatistapdev/Rodovias-Em-Dados

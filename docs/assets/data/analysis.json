@@ -1,0 +1,7354 @@
+{
+  "meta": {
+    "source": "PRF/BAT — acidentes agrupados por ocorrência",
+    "period": "2023–2025",
+    "updated_from": "arquivos ZIP oficiais disponibilizados pela PRF",
+    "unit": "uma linha por ocorrência",
+    "note": "Contagens absolutas não medem risco ajustado à exposição ao tráfego.",
+    "map_grid_resolution_degrees": 0.5
+  },
+  "annual": [
+    {
+      "year": 2023,
+      "accidents": 67766,
+      "deaths": 5627,
+      "injured": 78463,
+      "fatal_accidents": 4858
+    },
+    {
+      "year": 2024,
+      "accidents": 73202,
+      "deaths": 6163,
+      "injured": 84595,
+      "fatal_accidents": 5225
+    },
+    {
+      "year": 2025,
+      "accidents": 72529,
+      "deaths": 6043,
+      "injured": 83550,
+      "fatal_accidents": 5210
+    }
+  ],
+  "monthly": [
+    {
+      "year": 2023,
+      "month": 1,
+      "accidents": 5254,
+      "deaths": 449,
+      "injured": 6554
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "accidents": 4751,
+      "deaths": 334,
+      "injured": 5515
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "accidents": 5596,
+      "deaths": 464,
+      "injured": 6269
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "accidents": 5603,
+      "deaths": 403,
+      "injured": 6274
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "accidents": 5638,
+      "deaths": 475,
+      "injured": 6498
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "accidents": 5735,
+      "deaths": 543,
+      "injured": 6451
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "accidents": 5966,
+      "deaths": 559,
+      "injured": 6923
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "accidents": 5613,
+      "deaths": 488,
+      "injured": 6281
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "accidents": 5664,
+      "deaths": 419,
+      "injured": 6472
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "accidents": 5740,
+      "deaths": 504,
+      "injured": 6718
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "accidents": 5592,
+      "deaths": 438,
+      "injured": 6515
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "accidents": 6614,
+      "deaths": 551,
+      "injured": 7993
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "accidents": 5757,
+      "deaths": 516,
+      "injured": 7127
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "accidents": 5280,
+      "deaths": 390,
+      "injured": 6220
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "accidents": 5959,
+      "deaths": 460,
+      "injured": 6730
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "accidents": 5835,
+      "deaths": 479,
+      "injured": 6601
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "accidents": 6188,
+      "deaths": 531,
+      "injured": 6902
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "accidents": 6226,
+      "deaths": 535,
+      "injured": 7031
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "accidents": 6405,
+      "deaths": 537,
+      "injured": 7388
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "accidents": 6168,
+      "deaths": 546,
+      "injured": 7032
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "accidents": 6224,
+      "deaths": 532,
+      "injured": 6981
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "accidents": 6412,
+      "deaths": 495,
+      "injured": 7529
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "accidents": 6146,
+      "deaths": 510,
+      "injured": 7163
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "accidents": 6602,
+      "deaths": 632,
+      "injured": 7891
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "accidents": 5528,
+      "deaths": 418,
+      "injured": 6915
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "accidents": 5287,
+      "deaths": 412,
+      "injured": 5974
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "accidents": 5960,
+      "deaths": 462,
+      "injured": 6784
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "accidents": 5786,
+      "deaths": 495,
+      "injured": 6678
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "accidents": 6096,
+      "deaths": 574,
+      "injured": 6834
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "accidents": 6122,
+      "deaths": 528,
+      "injured": 6920
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "accidents": 6238,
+      "deaths": 536,
+      "injured": 7129
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "accidents": 6246,
+      "deaths": 554,
+      "injured": 7006
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "accidents": 6017,
+      "deaths": 500,
+      "injured": 6876
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "accidents": 6252,
+      "deaths": 494,
+      "injured": 7231
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "accidents": 6209,
+      "deaths": 498,
+      "injured": 7103
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "accidents": 6788,
+      "deaths": 572,
+      "injured": 8100
+    }
+  ],
+  "hourly": [
+    {
+      "hour": 0,
+      "accidents": 4385,
+      "deaths": 523,
+      "injured": 4548,
+      "fatal_accidents": 450
+    },
+    {
+      "hour": 1,
+      "accidents": 3878,
+      "deaths": 464,
+      "injured": 3925,
+      "fatal_accidents": 400
+    },
+    {
+      "hour": 2,
+      "accidents": 3478,
+      "deaths": 498,
+      "injured": 3499,
+      "fatal_accidents": 434
+    },
+    {
+      "hour": 3,
+      "accidents": 3806,
+      "deaths": 609,
+      "injured": 4014,
+      "fatal_accidents": 491
+    },
+    {
+      "hour": 4,
+      "accidents": 4600,
+      "deaths": 660,
+      "injured": 4761,
+      "fatal_accidents": 567
+    },
+    {
+      "hour": 5,
+      "accidents": 6386,
+      "deaths": 890,
+      "injured": 7069,
+      "fatal_accidents": 756
+    },
+    {
+      "hour": 6,
+      "accidents": 9448,
+      "deaths": 846,
+      "injured": 11014,
+      "fatal_accidents": 694
+    },
+    {
+      "hour": 7,
+      "accidents": 13379,
+      "deaths": 668,
+      "injured": 15957,
+      "fatal_accidents": 568
+    },
+    {
+      "hour": 8,
+      "accidents": 10906,
+      "deaths": 543,
+      "injured": 12745,
+      "fatal_accidents": 460
+    },
+    {
+      "hour": 9,
+      "accidents": 8930,
+      "deaths": 461,
+      "injured": 10421,
+      "fatal_accidents": 390
+    },
+    {
+      "hour": 10,
+      "accidents": 8967,
+      "deaths": 514,
+      "injured": 10482,
+      "fatal_accidents": 440
+    },
+    {
+      "hour": 11,
+      "accidents": 9245,
+      "deaths": 585,
+      "injured": 10915,
+      "fatal_accidents": 503
+    },
+    {
+      "hour": 12,
+      "accidents": 8997,
+      "deaths": 523,
+      "injured": 10794,
+      "fatal_accidents": 449
+    },
+    {
+      "hour": 13,
+      "accidents": 9261,
+      "deaths": 596,
+      "injured": 11267,
+      "fatal_accidents": 497
+    },
+    {
+      "hour": 14,
+      "accidents": 10163,
+      "deaths": 693,
+      "injured": 12448,
+      "fatal_accidents": 570
+    },
+    {
+      "hour": 15,
+      "accidents": 10848,
+      "deaths": 733,
+      "injured": 12899,
+      "fatal_accidents": 607
+    },
+    {
+      "hour": 16,
+      "accidents": 11960,
+      "deaths": 716,
+      "injured": 14360,
+      "fatal_accidents": 619
+    },
+    {
+      "hour": 17,
+      "accidents": 14151,
+      "deaths": 900,
+      "injured": 16958,
+      "fatal_accidents": 764
+    },
+    {
+      "hour": 18,
+      "accidents": 16021,
+      "deaths": 1373,
+      "injured": 18798,
+      "fatal_accidents": 1211
+    },
+    {
+      "hour": 19,
+      "accidents": 13775,
+      "deaths": 1501,
+      "injured": 15734,
+      "fatal_accidents": 1313
+    },
+    {
+      "hour": 20,
+      "accidents": 9962,
+      "deaths": 1096,
+      "injured": 11193,
+      "fatal_accidents": 974
+    },
+    {
+      "hour": 21,
+      "accidents": 8198,
+      "deaths": 965,
+      "injured": 9052,
+      "fatal_accidents": 840
+    },
+    {
+      "hour": 22,
+      "accidents": 7063,
+      "deaths": 796,
+      "injured": 7640,
+      "fatal_accidents": 711
+    },
+    {
+      "hour": 23,
+      "accidents": 5690,
+      "deaths": 680,
+      "injured": 6115,
+      "fatal_accidents": 585
+    }
+  ],
+  "weekday": [
+    {
+      "day": 0,
+      "name": "Segunda",
+      "accidents": 29751,
+      "deaths": 2225,
+      "injured": 34515
+    },
+    {
+      "day": 1,
+      "name": "Terça",
+      "accidents": 26724,
+      "deaths": 1983,
+      "injured": 30484
+    },
+    {
+      "day": 2,
+      "name": "Quarta",
+      "accidents": 27444,
+      "deaths": 2032,
+      "injured": 31300
+    },
+    {
+      "day": 3,
+      "name": "Quinta",
+      "accidents": 27904,
+      "deaths": 2126,
+      "injured": 31678
+    },
+    {
+      "day": 4,
+      "name": "Sexta",
+      "accidents": 32886,
+      "deaths": 2629,
+      "injured": 37742
+    },
+    {
+      "day": 5,
+      "name": "Sábado",
+      "accidents": 34307,
+      "deaths": 3295,
+      "injured": 39539
+    },
+    {
+      "day": 6,
+      "name": "Domingo",
+      "accidents": 34481,
+      "deaths": 3543,
+      "injured": 41350
+    }
+  ],
+  "uf_annual": [
+    {
+      "year": 2023,
+      "uf": "AC",
+      "accidents": 225,
+      "deaths": 24,
+      "injured": 273
+    },
+    {
+      "year": 2023,
+      "uf": "AL",
+      "accidents": 620,
+      "deaths": 64,
+      "injured": 694
+    },
+    {
+      "year": 2023,
+      "uf": "AM",
+      "accidents": 105,
+      "deaths": 11,
+      "injured": 128
+    },
+    {
+      "year": 2023,
+      "uf": "AP",
+      "accidents": 144,
+      "deaths": 12,
+      "injured": 192
+    },
+    {
+      "year": 2023,
+      "uf": "BA",
+      "accidents": 3755,
+      "deaths": 564,
+      "injured": 4690
+    },
+    {
+      "year": 2023,
+      "uf": "CE",
+      "accidents": 1363,
+      "deaths": 137,
+      "injured": 1605
+    },
+    {
+      "year": 2023,
+      "uf": "DF",
+      "accidents": 977,
+      "deaths": 57,
+      "injured": 1068
+    },
+    {
+      "year": 2023,
+      "uf": "ES",
+      "accidents": 2241,
+      "deaths": 163,
+      "injured": 2705
+    },
+    {
+      "year": 2023,
+      "uf": "GO",
+      "accidents": 3136,
+      "deaths": 290,
+      "injured": 3599
+    },
+    {
+      "year": 2023,
+      "uf": "MA",
+      "accidents": 1163,
+      "deaths": 251,
+      "injured": 1280
+    },
+    {
+      "year": 2023,
+      "uf": "MG",
+      "accidents": 9007,
+      "deaths": 726,
+      "injured": 11786
+    },
+    {
+      "year": 2023,
+      "uf": "MS",
+      "accidents": 1726,
+      "deaths": 184,
+      "injured": 1921
+    },
+    {
+      "year": 2023,
+      "uf": "MT",
+      "accidents": 2317,
+      "deaths": 271,
+      "injured": 2504
+    },
+    {
+      "year": 2023,
+      "uf": "PA",
+      "accidents": 899,
+      "deaths": 207,
+      "injured": 977
+    },
+    {
+      "year": 2023,
+      "uf": "PB",
+      "accidents": 1564,
+      "deaths": 132,
+      "injured": 1807
+    },
+    {
+      "year": 2023,
+      "uf": "PE",
+      "accidents": 3001,
+      "deaths": 278,
+      "injured": 3490
+    },
+    {
+      "year": 2023,
+      "uf": "PI",
+      "accidents": 1273,
+      "deaths": 149,
+      "injured": 1394
+    },
+    {
+      "year": 2023,
+      "uf": "PR",
+      "accidents": 7110,
+      "deaths": 561,
+      "injured": 7912
+    },
+    {
+      "year": 2023,
+      "uf": "RJ",
+      "accidents": 5575,
+      "deaths": 317,
+      "injured": 6442
+    },
+    {
+      "year": 2023,
+      "uf": "RN",
+      "accidents": 1367,
+      "deaths": 99,
+      "injured": 1638
+    },
+    {
+      "year": 2023,
+      "uf": "RO",
+      "accidents": 1400,
+      "deaths": 101,
+      "injured": 1565
+    },
+    {
+      "year": 2023,
+      "uf": "RR",
+      "accidents": 144,
+      "deaths": 27,
+      "injured": 194
+    },
+    {
+      "year": 2023,
+      "uf": "RS",
+      "accidents": 4936,
+      "deaths": 296,
+      "injured": 5421
+    },
+    {
+      "year": 2023,
+      "uf": "SC",
+      "accidents": 7799,
+      "deaths": 365,
+      "injured": 8608
+    },
+    {
+      "year": 2023,
+      "uf": "SE",
+      "accidents": 537,
+      "deaths": 38,
+      "injured": 622
+    },
+    {
+      "year": 2023,
+      "uf": "SP",
+      "accidents": 4754,
+      "deaths": 233,
+      "injured": 5207
+    },
+    {
+      "year": 2023,
+      "uf": "TO",
+      "accidents": 628,
+      "deaths": 70,
+      "injured": 741
+    },
+    {
+      "year": 2024,
+      "uf": "AC",
+      "accidents": 287,
+      "deaths": 20,
+      "injured": 357
+    },
+    {
+      "year": 2024,
+      "uf": "AL",
+      "accidents": 712,
+      "deaths": 97,
+      "injured": 803
+    },
+    {
+      "year": 2024,
+      "uf": "AM",
+      "accidents": 171,
+      "deaths": 26,
+      "injured": 262
+    },
+    {
+      "year": 2024,
+      "uf": "AP",
+      "accidents": 159,
+      "deaths": 11,
+      "injured": 176
+    },
+    {
+      "year": 2024,
+      "uf": "BA",
+      "accidents": 4155,
+      "deaths": 619,
+      "injured": 5363
+    },
+    {
+      "year": 2024,
+      "uf": "CE",
+      "accidents": 1502,
+      "deaths": 185,
+      "injured": 1737
+    },
+    {
+      "year": 2024,
+      "uf": "DF",
+      "accidents": 1056,
+      "deaths": 28,
+      "injured": 1143
+    },
+    {
+      "year": 2024,
+      "uf": "ES",
+      "accidents": 2395,
+      "deaths": 176,
+      "injured": 2989
+    },
+    {
+      "year": 2024,
+      "uf": "GO",
+      "accidents": 3306,
+      "deaths": 297,
+      "injured": 3596
+    },
+    {
+      "year": 2024,
+      "uf": "MA",
+      "accidents": 1138,
+      "deaths": 280,
+      "injured": 1205
+    },
+    {
+      "year": 2024,
+      "uf": "MG",
+      "accidents": 9306,
+      "deaths": 794,
+      "injured": 11766
+    },
+    {
+      "year": 2024,
+      "uf": "MS",
+      "accidents": 1804,
+      "deaths": 182,
+      "injured": 1943
+    },
+    {
+      "year": 2024,
+      "uf": "MT",
+      "accidents": 2555,
+      "deaths": 244,
+      "injured": 2719
+    },
+    {
+      "year": 2024,
+      "uf": "PA",
+      "accidents": 975,
+      "deaths": 216,
+      "injured": 1038
+    },
+    {
+      "year": 2024,
+      "uf": "PB",
+      "accidents": 1920,
+      "deaths": 134,
+      "injured": 2201
+    },
+    {
+      "year": 2024,
+      "uf": "PE",
+      "accidents": 3232,
+      "deaths": 313,
+      "injured": 3583
+    },
+    {
+      "year": 2024,
+      "uf": "PI",
+      "accidents": 1521,
+      "deaths": 171,
+      "injured": 1663
+    },
+    {
+      "year": 2024,
+      "uf": "PR",
+      "accidents": 7583,
+      "deaths": 607,
+      "injured": 8467
+    },
+    {
+      "year": 2024,
+      "uf": "RJ",
+      "accidents": 6393,
+      "deaths": 333,
+      "injured": 7552
+    },
+    {
+      "year": 2024,
+      "uf": "RN",
+      "accidents": 1605,
+      "deaths": 118,
+      "injured": 1907
+    },
+    {
+      "year": 2024,
+      "uf": "RO",
+      "accidents": 1484,
+      "deaths": 111,
+      "injured": 1737
+    },
+    {
+      "year": 2024,
+      "uf": "RR",
+      "accidents": 135,
+      "deaths": 30,
+      "injured": 248
+    },
+    {
+      "year": 2024,
+      "uf": "RS",
+      "accidents": 5208,
+      "deaths": 346,
+      "injured": 5734
+    },
+    {
+      "year": 2024,
+      "uf": "SC",
+      "accidents": 8384,
+      "deaths": 415,
+      "injured": 9539
+    },
+    {
+      "year": 2024,
+      "uf": "SE",
+      "accidents": 597,
+      "deaths": 59,
+      "injured": 675
+    },
+    {
+      "year": 2024,
+      "uf": "SP",
+      "accidents": 4882,
+      "deaths": 226,
+      "injured": 5334
+    },
+    {
+      "year": 2024,
+      "uf": "TO",
+      "accidents": 737,
+      "deaths": 125,
+      "injured": 858
+    },
+    {
+      "year": 2025,
+      "uf": "AC",
+      "accidents": 280,
+      "deaths": 29,
+      "injured": 328
+    },
+    {
+      "year": 2025,
+      "uf": "AL",
+      "accidents": 629,
+      "deaths": 96,
+      "injured": 740
+    },
+    {
+      "year": 2025,
+      "uf": "AM",
+      "accidents": 138,
+      "deaths": 26,
+      "injured": 149
+    },
+    {
+      "year": 2025,
+      "uf": "AP",
+      "accidents": 169,
+      "deaths": 14,
+      "injured": 260
+    },
+    {
+      "year": 2025,
+      "uf": "BA",
+      "accidents": 4108,
+      "deaths": 583,
+      "injured": 5023
+    },
+    {
+      "year": 2025,
+      "uf": "CE",
+      "accidents": 1302,
+      "deaths": 171,
+      "injured": 1429
+    },
+    {
+      "year": 2025,
+      "uf": "DF",
+      "accidents": 1011,
+      "deaths": 47,
+      "injured": 1081
+    },
+    {
+      "year": 2025,
+      "uf": "ES",
+      "accidents": 2642,
+      "deaths": 161,
+      "injured": 3294
+    },
+    {
+      "year": 2025,
+      "uf": "GO",
+      "accidents": 3196,
+      "deaths": 308,
+      "injured": 3557
+    },
+    {
+      "year": 2025,
+      "uf": "MA",
+      "accidents": 1262,
+      "deaths": 281,
+      "injured": 1295
+    },
+    {
+      "year": 2025,
+      "uf": "MG",
+      "accidents": 9570,
+      "deaths": 765,
+      "injured": 12002
+    },
+    {
+      "year": 2025,
+      "uf": "MS",
+      "accidents": 1654,
+      "deaths": 150,
+      "injured": 1755
+    },
+    {
+      "year": 2025,
+      "uf": "MT",
+      "accidents": 2636,
+      "deaths": 243,
+      "injured": 2835
+    },
+    {
+      "year": 2025,
+      "uf": "PA",
+      "accidents": 1117,
+      "deaths": 224,
+      "injured": 1191
+    },
+    {
+      "year": 2025,
+      "uf": "PB",
+      "accidents": 1978,
+      "deaths": 142,
+      "injured": 2284
+    },
+    {
+      "year": 2025,
+      "uf": "PE",
+      "accidents": 3013,
+      "deaths": 336,
+      "injured": 3348
+    },
+    {
+      "year": 2025,
+      "uf": "PI",
+      "accidents": 1490,
+      "deaths": 168,
+      "injured": 1689
+    },
+    {
+      "year": 2025,
+      "uf": "PR",
+      "accidents": 7630,
+      "deaths": 593,
+      "injured": 8537
+    },
+    {
+      "year": 2025,
+      "uf": "RJ",
+      "accidents": 6428,
+      "deaths": 330,
+      "injured": 7659
+    },
+    {
+      "year": 2025,
+      "uf": "RN",
+      "accidents": 1648,
+      "deaths": 111,
+      "injured": 1902
+    },
+    {
+      "year": 2025,
+      "uf": "RO",
+      "accidents": 1452,
+      "deaths": 102,
+      "injured": 1647
+    },
+    {
+      "year": 2025,
+      "uf": "RR",
+      "accidents": 142,
+      "deaths": 28,
+      "injured": 193
+    },
+    {
+      "year": 2025,
+      "uf": "RS",
+      "accidents": 4899,
+      "deaths": 327,
+      "injured": 5553
+    },
+    {
+      "year": 2025,
+      "uf": "SC",
+      "accidents": 8186,
+      "deaths": 434,
+      "injured": 9400
+    },
+    {
+      "year": 2025,
+      "uf": "SE",
+      "accidents": 589,
+      "deaths": 51,
+      "injured": 627
+    },
+    {
+      "year": 2025,
+      "uf": "SP",
+      "accidents": 4683,
+      "deaths": 221,
+      "injured": 4988
+    },
+    {
+      "year": 2025,
+      "uf": "TO",
+      "accidents": 677,
+      "deaths": 102,
+      "injured": 784
+    }
+  ],
+  "eda_summary": {
+    "monthly_accidents_mean": 5930.47,
+    "monthly_accidents_median": 5963.0,
+    "monthly_accidents_std_population": 424.14,
+    "monthly_accidents_q1": 5631.75,
+    "monthly_accidents_q3": 6224.5,
+    "monthly_highest": {
+      "year": 2025,
+      "month": 12,
+      "accidents": 6788,
+      "deaths": 572,
+      "injured": 8100
+    },
+    "monthly_lowest": {
+      "year": 2023,
+      "month": 2,
+      "accidents": 4751,
+      "deaths": 334,
+      "injured": 5515
+    },
+    "sample_size_months": 36,
+    "note": "Estatísticas descritivas dos 36 totais mensais; não são taxas por exposição ao tráfego."
+  },
+  "top_municipalities_2025": [
+    {
+      "name": "BRASILIA · DF",
+      "accidents": 1011,
+      "deaths": 47,
+      "injured": 1081
+    },
+    {
+      "name": "DUQUE DE CAXIAS · RJ",
+      "accidents": 847,
+      "deaths": 27,
+      "injured": 966
+    },
+    {
+      "name": "SAO JOSE · SC",
+      "accidents": 761,
+      "deaths": 13,
+      "injured": 857
+    },
+    {
+      "name": "GUARULHOS · SP",
+      "accidents": 742,
+      "deaths": 22,
+      "injured": 784
+    },
+    {
+      "name": "CURITIBA · PR",
+      "accidents": 702,
+      "deaths": 29,
+      "injured": 727
+    },
+    {
+      "name": "BETIM · MG",
+      "accidents": 682,
+      "deaths": 22,
+      "injured": 783
+    },
+    {
+      "name": "RECIFE · PE",
+      "accidents": 615,
+      "deaths": 26,
+      "injured": 708
+    },
+    {
+      "name": "SERRA · ES",
+      "accidents": 579,
+      "deaths": 20,
+      "injured": 688
+    },
+    {
+      "name": "PALHOCA · SC",
+      "accidents": 568,
+      "deaths": 12,
+      "injured": 672
+    },
+    {
+      "name": "JOAO PESSOA · PB",
+      "accidents": 543,
+      "deaths": 18,
+      "injured": 642
+    },
+    {
+      "name": "TERESINA · PI",
+      "accidents": 499,
+      "deaths": 24,
+      "injured": 543
+    },
+    {
+      "name": "SAO JOSE DOS PINHAIS · PR",
+      "accidents": 464,
+      "deaths": 30,
+      "injured": 457
+    },
+    {
+      "name": "RIO DE JANEIRO · RJ",
+      "accidents": 448,
+      "deaths": 13,
+      "injured": 506
+    },
+    {
+      "name": "NOVA IGUACU · RJ",
+      "accidents": 439,
+      "deaths": 17,
+      "injured": 485
+    },
+    {
+      "name": "ANGRA DOS REIS · RJ",
+      "accidents": 437,
+      "deaths": 16,
+      "injured": 588
+    },
+    {
+      "name": "SAO JOSE DOS CAMPOS · SP",
+      "accidents": 413,
+      "deaths": 13,
+      "injured": 456
+    },
+    {
+      "name": "FEIRA DE SANTANA · BA",
+      "accidents": 403,
+      "deaths": 31,
+      "injured": 444
+    },
+    {
+      "name": "ANAPOLIS · GO",
+      "accidents": 385,
+      "deaths": 12,
+      "injured": 399
+    },
+    {
+      "name": "ITAJAI · SC",
+      "accidents": 382,
+      "deaths": 13,
+      "injured": 397
+    },
+    {
+      "name": "UBERABA · MG",
+      "accidents": 366,
+      "deaths": 14,
+      "injured": 380
+    }
+  ],
+  "fatal_by_type_2025": [
+    {
+      "name": "Atropelamento de Pedestre",
+      "accidents": 3057,
+      "fatal_accidents": 902,
+      "fatal_rate": 29.51
+    },
+    {
+      "name": "Colisão frontal",
+      "accidents": 4739,
+      "fatal_accidents": 1396,
+      "fatal_rate": 29.46
+    },
+    {
+      "name": "Colisão lateral sentido oposto",
+      "accidents": 2152,
+      "fatal_accidents": 212,
+      "fatal_rate": 9.85
+    },
+    {
+      "name": "Eventos atípicos",
+      "accidents": 287,
+      "fatal_accidents": 23,
+      "fatal_rate": 8.01
+    },
+    {
+      "name": "Atropelamento de Animal",
+      "accidents": 1133,
+      "fatal_accidents": 68,
+      "fatal_rate": 6.0
+    },
+    {
+      "name": "Saída de leito carroçável",
+      "accidents": 10209,
+      "fatal_accidents": 605,
+      "fatal_rate": 5.93
+    },
+    {
+      "name": "Colisão com objeto",
+      "accidents": 5109,
+      "fatal_accidents": 297,
+      "fatal_rate": 5.81
+    },
+    {
+      "name": "Capotamento",
+      "accidents": 1373,
+      "fatal_accidents": 63,
+      "fatal_rate": 4.59
+    },
+    {
+      "name": "Colisão transversal",
+      "accidents": 9306,
+      "fatal_accidents": 427,
+      "fatal_rate": 4.59
+    },
+    {
+      "name": "Colisão traseira",
+      "accidents": 14360,
+      "fatal_accidents": 619,
+      "fatal_rate": 4.31
+    },
+    {
+      "name": "Tombamento",
+      "accidents": 6351,
+      "fatal_accidents": 268,
+      "fatal_rate": 4.22
+    },
+    {
+      "name": "Derramamento de carga",
+      "accidents": 107,
+      "fatal_accidents": 3,
+      "fatal_rate": 2.8
+    },
+    {
+      "name": "Colisão lateral mesmo sentido",
+      "accidents": 7885,
+      "fatal_accidents": 212,
+      "fatal_rate": 2.69
+    },
+    {
+      "name": "Queda de ocupante de veículo",
+      "accidents": 3450,
+      "fatal_accidents": 87,
+      "fatal_rate": 2.52
+    },
+    {
+      "name": "Engavetamento",
+      "accidents": 1233,
+      "fatal_accidents": 28,
+      "fatal_rate": 2.27
+    },
+    {
+      "name": "Incêndio",
+      "accidents": 1771,
+      "fatal_accidents": 0,
+      "fatal_rate": 0.0
+    }
+  ],
+  "top_types_2025": [
+    {
+      "name": "Colisão traseira",
+      "accidents": 14360,
+      "deaths": 683,
+      "injured": 16376,
+      "fatal_accidents": 619
+    },
+    {
+      "name": "Saída de leito carroçável",
+      "accidents": 10209,
+      "deaths": 700,
+      "injured": 11638,
+      "fatal_accidents": 605
+    },
+    {
+      "name": "Colisão transversal",
+      "accidents": 9306,
+      "deaths": 481,
+      "injured": 12015,
+      "fatal_accidents": 427
+    },
+    {
+      "name": "Colisão lateral mesmo sentido",
+      "accidents": 7885,
+      "deaths": 228,
+      "injured": 8839,
+      "fatal_accidents": 212
+    },
+    {
+      "name": "Tombamento",
+      "accidents": 6351,
+      "deaths": 293,
+      "injured": 7241,
+      "fatal_accidents": 268
+    },
+    {
+      "name": "Colisão com objeto",
+      "accidents": 5109,
+      "deaths": 323,
+      "injured": 4952,
+      "fatal_accidents": 297
+    },
+    {
+      "name": "Colisão frontal",
+      "accidents": 4739,
+      "deaths": 1863,
+      "injured": 7596,
+      "fatal_accidents": 1396
+    },
+    {
+      "name": "Queda de ocupante de veículo",
+      "accidents": 3450,
+      "deaths": 89,
+      "injured": 4038,
+      "fatal_accidents": 87
+    },
+    {
+      "name": "Atropelamento de Pedestre",
+      "accidents": 3057,
+      "deaths": 919,
+      "injured": 2846,
+      "fatal_accidents": 902
+    },
+    {
+      "name": "Colisão lateral sentido oposto",
+      "accidents": 2152,
+      "deaths": 255,
+      "injured": 2824,
+      "fatal_accidents": 212
+    },
+    {
+      "name": "Incêndio",
+      "accidents": 1771,
+      "deaths": 0,
+      "injured": 55,
+      "fatal_accidents": 0
+    },
+    {
+      "name": "Capotamento",
+      "accidents": 1373,
+      "deaths": 74,
+      "injured": 1827,
+      "fatal_accidents": 63
+    }
+  ],
+  "top_causes_2025": [
+    {
+      "name": "Ausência de reação do condutor",
+      "accidents": 11469,
+      "deaths": 855,
+      "injured": 12505,
+      "fatal_accidents": 779
+    },
+    {
+      "name": "Reação tardia ou ineficiente do condutor",
+      "accidents": 10799,
+      "deaths": 597,
+      "injured": 12295,
+      "fatal_accidents": 528
+    },
+    {
+      "name": "Acessar a via sem observar a presença dos outros veículos",
+      "accidents": 7097,
+      "deaths": 421,
+      "injured": 8736,
+      "fatal_accidents": 394
+    },
+    {
+      "name": "Condutor deixou de manter distância do veículo da frente",
+      "accidents": 4413,
+      "deaths": 89,
+      "injured": 5001,
+      "fatal_accidents": 78
+    },
+    {
+      "name": "Velocidade Incompatível",
+      "accidents": 4088,
+      "deaths": 470,
+      "injured": 5133,
+      "fatal_accidents": 385
+    },
+    {
+      "name": "Manobra de mudança de faixa",
+      "accidents": 4016,
+      "deaths": 188,
+      "injured": 4873,
+      "fatal_accidents": 161
+    },
+    {
+      "name": "Ingestão de álcool pelo condutor",
+      "accidents": 3685,
+      "deaths": 223,
+      "injured": 3219,
+      "fatal_accidents": 180
+    },
+    {
+      "name": "Demais falhas mecânicas ou elétricas",
+      "accidents": 3385,
+      "deaths": 59,
+      "injured": 2388,
+      "fatal_accidents": 52
+    },
+    {
+      "name": "Transitar na contramão",
+      "accidents": 2475,
+      "deaths": 961,
+      "injured": 3452,
+      "fatal_accidents": 736
+    },
+    {
+      "name": "Condutor Dormindo",
+      "accidents": 2116,
+      "deaths": 171,
+      "injured": 2781,
+      "fatal_accidents": 135
+    },
+    {
+      "name": "Ultrapassagem Indevida",
+      "accidents": 1770,
+      "deaths": 404,
+      "injured": 2760,
+      "fatal_accidents": 302
+    },
+    {
+      "name": "Trafegar com motocicleta (ou similar) entre as faixas",
+      "accidents": 1325,
+      "deaths": 56,
+      "injured": 1548,
+      "fatal_accidents": 53
+    }
+  ],
+  "top_states_2025": [
+    {
+      "name": "MG",
+      "accidents": 9570,
+      "deaths": 765,
+      "injured": 12002,
+      "fatal_accidents": 647
+    },
+    {
+      "name": "SC",
+      "accidents": 8186,
+      "deaths": 434,
+      "injured": 9400,
+      "fatal_accidents": 374
+    },
+    {
+      "name": "PR",
+      "accidents": 7630,
+      "deaths": 593,
+      "injured": 8537,
+      "fatal_accidents": 511
+    },
+    {
+      "name": "RJ",
+      "accidents": 6428,
+      "deaths": 330,
+      "injured": 7659,
+      "fatal_accidents": 306
+    },
+    {
+      "name": "RS",
+      "accidents": 4899,
+      "deaths": 327,
+      "injured": 5553,
+      "fatal_accidents": 275
+    },
+    {
+      "name": "SP",
+      "accidents": 4683,
+      "deaths": 221,
+      "injured": 4988,
+      "fatal_accidents": 205
+    },
+    {
+      "name": "BA",
+      "accidents": 4108,
+      "deaths": 583,
+      "injured": 5023,
+      "fatal_accidents": 476
+    },
+    {
+      "name": "GO",
+      "accidents": 3196,
+      "deaths": 308,
+      "injured": 3557,
+      "fatal_accidents": 247
+    },
+    {
+      "name": "PE",
+      "accidents": 3013,
+      "deaths": 336,
+      "injured": 3348,
+      "fatal_accidents": 302
+    },
+    {
+      "name": "ES",
+      "accidents": 2642,
+      "deaths": 161,
+      "injured": 3294,
+      "fatal_accidents": 145
+    },
+    {
+      "name": "MT",
+      "accidents": 2636,
+      "deaths": 243,
+      "injured": 2835,
+      "fatal_accidents": 204
+    },
+    {
+      "name": "PB",
+      "accidents": 1978,
+      "deaths": 142,
+      "injured": 2284,
+      "fatal_accidents": 127
+    },
+    {
+      "name": "MS",
+      "accidents": 1654,
+      "deaths": 150,
+      "injured": 1755,
+      "fatal_accidents": 136
+    },
+    {
+      "name": "RN",
+      "accidents": 1648,
+      "deaths": 111,
+      "injured": 1902,
+      "fatal_accidents": 102
+    },
+    {
+      "name": "PI",
+      "accidents": 1490,
+      "deaths": 168,
+      "injured": 1689,
+      "fatal_accidents": 149
+    },
+    {
+      "name": "RO",
+      "accidents": 1452,
+      "deaths": 102,
+      "injured": 1647,
+      "fatal_accidents": 86
+    },
+    {
+      "name": "CE",
+      "accidents": 1302,
+      "deaths": 171,
+      "injured": 1429,
+      "fatal_accidents": 153
+    },
+    {
+      "name": "MA",
+      "accidents": 1262,
+      "deaths": 281,
+      "injured": 1295,
+      "fatal_accidents": 236
+    },
+    {
+      "name": "PA",
+      "accidents": 1117,
+      "deaths": 224,
+      "injured": 1191,
+      "fatal_accidents": 193
+    },
+    {
+      "name": "DF",
+      "accidents": 1011,
+      "deaths": 47,
+      "injured": 1081,
+      "fatal_accidents": 43
+    },
+    {
+      "name": "TO",
+      "accidents": 677,
+      "deaths": 102,
+      "injured": 784,
+      "fatal_accidents": 83
+    },
+    {
+      "name": "AL",
+      "accidents": 629,
+      "deaths": 96,
+      "injured": 740,
+      "fatal_accidents": 86
+    },
+    {
+      "name": "SE",
+      "accidents": 589,
+      "deaths": 51,
+      "injured": 627,
+      "fatal_accidents": 44
+    },
+    {
+      "name": "AC",
+      "accidents": 280,
+      "deaths": 29,
+      "injured": 328,
+      "fatal_accidents": 29
+    },
+    {
+      "name": "AP",
+      "accidents": 169,
+      "deaths": 14,
+      "injured": 260,
+      "fatal_accidents": 9
+    },
+    {
+      "name": "RR",
+      "accidents": 142,
+      "deaths": 28,
+      "injured": 193,
+      "fatal_accidents": 23
+    },
+    {
+      "name": "AM",
+      "accidents": 138,
+      "deaths": 26,
+      "injured": 149,
+      "fatal_accidents": 19
+    }
+  ],
+  "top_roads_2025": [
+    {
+      "name": "BR-101",
+      "accidents": 13014,
+      "deaths": 760,
+      "injured": 15033,
+      "fatal_accidents": 682
+    },
+    {
+      "name": "BR-116",
+      "accidents": 11021,
+      "deaths": 708,
+      "injured": 12268,
+      "fatal_accidents": 638
+    },
+    {
+      "name": "BR-040",
+      "accidents": 3502,
+      "deaths": 214,
+      "injured": 4183,
+      "fatal_accidents": 180
+    },
+    {
+      "name": "BR-381",
+      "accidents": 3496,
+      "deaths": 190,
+      "injured": 4166,
+      "fatal_accidents": 171
+    },
+    {
+      "name": "BR-153",
+      "accidents": 2789,
+      "deaths": 282,
+      "injured": 3117,
+      "fatal_accidents": 226
+    },
+    {
+      "name": "BR-163",
+      "accidents": 2519,
+      "deaths": 210,
+      "injured": 2603,
+      "fatal_accidents": 173
+    },
+    {
+      "name": "BR-364",
+      "accidents": 2264,
+      "deaths": 173,
+      "injured": 2515,
+      "fatal_accidents": 153
+    },
+    {
+      "name": "BR-277",
+      "accidents": 2157,
+      "deaths": 152,
+      "injured": 2492,
+      "fatal_accidents": 134
+    },
+    {
+      "name": "BR-262",
+      "accidents": 1769,
+      "deaths": 169,
+      "injured": 2137,
+      "fatal_accidents": 148
+    },
+    {
+      "name": "BR-376",
+      "accidents": 1762,
+      "deaths": 121,
+      "injured": 1918,
+      "fatal_accidents": 114
+    },
+    {
+      "name": "BR-230",
+      "accidents": 1745,
+      "deaths": 192,
+      "injured": 1995,
+      "fatal_accidents": 168
+    },
+    {
+      "name": "BR-470",
+      "accidents": 1388,
+      "deaths": 123,
+      "injured": 1603,
+      "fatal_accidents": 104
+    },
+    {
+      "name": "BR-282",
+      "accidents": 1379,
+      "deaths": 100,
+      "injured": 1759,
+      "fatal_accidents": 82
+    },
+    {
+      "name": "BR-316",
+      "accidents": 1236,
+      "deaths": 201,
+      "injured": 1421,
+      "fatal_accidents": 182
+    },
+    {
+      "name": "BR-070",
+      "accidents": 1084,
+      "deaths": 86,
+      "injured": 1214,
+      "fatal_accidents": 75
+    }
+  ],
+  "severity_2025": {
+    "tipo_pista": [
+      {
+        "name": "Simples",
+        "accidents": 34733,
+        "fatal_accidents": 3424,
+        "deaths": 4143,
+        "fatal_rate": 9.86
+      },
+      {
+        "name": "Dupla",
+        "accidents": 30782,
+        "fatal_accidents": 1501,
+        "deaths": 1603,
+        "fatal_rate": 4.88
+      },
+      {
+        "name": "Múltipla",
+        "accidents": 7014,
+        "fatal_accidents": 285,
+        "deaths": 297,
+        "fatal_rate": 4.06
+      }
+    ],
+    "condicao_metereologica": [
+      {
+        "name": "Céu Claro",
+        "accidents": 46375,
+        "fatal_accidents": 3419,
+        "deaths": 3948,
+        "fatal_rate": 7.37
+      },
+      {
+        "name": "Nublado",
+        "accidents": 11435,
+        "fatal_accidents": 830,
+        "deaths": 955,
+        "fatal_rate": 7.26
+      },
+      {
+        "name": "Chuva",
+        "accidents": 6438,
+        "fatal_accidents": 402,
+        "deaths": 480,
+        "fatal_rate": 6.24
+      },
+      {
+        "name": "Sol",
+        "accidents": 4201,
+        "fatal_accidents": 247,
+        "deaths": 286,
+        "fatal_rate": 5.88
+      },
+      {
+        "name": "Garoa/Chuvisco",
+        "accidents": 2422,
+        "fatal_accidents": 144,
+        "deaths": 175,
+        "fatal_rate": 5.95
+      },
+      {
+        "name": "Ignorado",
+        "accidents": 1000,
+        "fatal_accidents": 99,
+        "deaths": 115,
+        "fatal_rate": 9.9
+      },
+      {
+        "name": "Nevoeiro/Neblina",
+        "accidents": 553,
+        "fatal_accidents": 60,
+        "deaths": 74,
+        "fatal_rate": 10.85
+      },
+      {
+        "name": "Vento",
+        "accidents": 104,
+        "fatal_accidents": 9,
+        "deaths": 10,
+        "fatal_rate": 8.65
+      }
+    ],
+    "fase_dia": [
+      {
+        "name": "Pleno dia",
+        "accidents": 40375,
+        "fatal_accidents": 2049,
+        "deaths": 2391,
+        "fatal_rate": 5.07
+      },
+      {
+        "name": "Plena Noite",
+        "accidents": 24781,
+        "fatal_accidents": 2522,
+        "deaths": 2892,
+        "fatal_rate": 10.18
+      },
+      {
+        "name": "Anoitecer",
+        "accidents": 3926,
+        "fatal_accidents": 253,
+        "deaths": 288,
+        "fatal_rate": 6.44
+      },
+      {
+        "name": "Amanhecer",
+        "accidents": 3447,
+        "fatal_accidents": 386,
+        "deaths": 472,
+        "fatal_rate": 11.2
+      }
+    ]
+  },
+  "map_grid_2025": [
+    [
+      -22.75,
+      -43.25,
+      2519
+    ],
+    [
+      -27.75,
+      -48.75,
+      1800
+    ],
+    [
+      -19.75,
+      -44.25,
+      1348
+    ],
+    [
+      -25.75,
+      -49.25,
+      1172
+    ],
+    [
+      -29.75,
+      -51.25,
+      1138
+    ],
+    [
+      -20.25,
+      -40.25,
+      1034
+    ],
+    [
+      -22.75,
+      -43.75,
+      1029
+    ],
+    [
+      -26.75,
+      -48.75,
+      1028
+    ],
+    [
+      -7.25,
+      -34.75,
+      1010
+    ],
+    [
+      -5.75,
+      -35.25,
+      873
+    ],
+    [
+      -23.25,
+      -46.75,
+      852
+    ],
+    [
+      -27.25,
+      -48.75,
+      821
+    ],
+    [
+      -26.25,
+      -48.75,
+      797
+    ],
+    [
+      -23.25,
+      -45.75,
+      726
+    ],
+    [
+      -8.25,
+      -34.75,
+      716
+    ],
+    [
+      -25.25,
+      -49.25,
+      678
+    ],
+    [
+      -23.25,
+      -46.25,
+      636
+    ],
+    [
+      -5.25,
+      -42.75,
+      607
+    ],
+    [
+      -15.75,
+      -48.25,
+      597
+    ],
+    [
+      -12.25,
+      -38.75,
+      537
+    ],
+    [
+      -22.75,
+      -44.25,
+      535
+    ],
+    [
+      -3.75,
+      -38.75,
+      502
+    ],
+    [
+      -23.75,
+      -46.75,
+      499
+    ],
+    [
+      -25.75,
+      -48.75,
+      493
+    ],
+    [
+      -23.25,
+      -51.25,
+      490
+    ],
+    [
+      -16.25,
+      -48.75,
+      486
+    ],
+    [
+      -22.75,
+      -42.75,
+      474
+    ],
+    [
+      -7.75,
+      -34.75,
+      450
+    ],
+    [
+      -12.75,
+      -38.25,
+      445
+    ],
+    [
+      -16.75,
+      -49.25,
+      440
+    ],
+    [
+      -18.75,
+      -48.25,
+      435
+    ],
+    [
+      -15.75,
+      -47.75,
+      434
+    ],
+    [
+      -26.75,
+      -49.25,
+      422
+    ],
+    [
+      -22.75,
+      -45.25,
+      408
+    ],
+    [
+      -20.25,
+      -44.25,
+      386
+    ],
+    [
+      -22.25,
+      -43.25,
+      382
+    ],
+    [
+      -10.75,
+      -37.25,
+      374
+    ],
+    [
+      -19.25,
+      -40.25,
+      367
+    ],
+    [
+      -22.75,
+      -46.25,
+      362
+    ],
+    [
+      -16.25,
+      -47.75,
+      348
+    ],
+    [
+      -7.25,
+      -35.75,
+      338
+    ],
+    [
+      -8.75,
+      -63.75,
+      319
+    ],
+    [
+      -20.25,
+      -42.25,
+      317
+    ],
+    [
+      -21.75,
+      -41.25,
+      316
+    ],
+    [
+      -8.25,
+      -35.25,
+      309
+    ],
+    [
+      -28.25,
+      -48.75,
+      308
+    ],
+    [
+      -25.25,
+      -50.25,
+      304
+    ],
+    [
+      -14.75,
+      -40.75,
+      303
+    ],
+    [
+      -25.25,
+      -48.75,
+      302
+    ],
+    [
+      -19.75,
+      -43.75,
+      301
+    ],
+    [
+      -5.25,
+      -37.25,
+      297
+    ],
+    [
+      -19.75,
+      -47.75,
+      294
+    ],
+    [
+      -2.75,
+      -44.25,
+      292
+    ],
+    [
+      -20.25,
+      -43.75,
+      290
+    ],
+    [
+      -23.25,
+      -51.75,
+      290
+    ],
+    [
+      -27.25,
+      -49.75,
+      288
+    ],
+    [
+      -8.25,
+      -35.75,
+      283
+    ],
+    [
+      -26.25,
+      -49.75,
+      278
+    ],
+    [
+      -24.75,
+      -53.25,
+      273
+    ],
+    [
+      -18.75,
+      -41.75,
+      270
+    ],
+    [
+      -20.75,
+      -49.25,
+      267
+    ],
+    [
+      -28.75,
+      -49.25,
+      265
+    ],
+    [
+      -19.75,
+      -42.25,
+      250
+    ],
+    [
+      -29.25,
+      -51.75,
+      249
+    ],
+    [
+      -19.75,
+      -43.25,
+      248
+    ],
+    [
+      -15.75,
+      -56.25,
+      245
+    ],
+    [
+      -29.25,
+      -51.25,
+      242
+    ],
+    [
+      -24.75,
+      -48.25,
+      241
+    ],
+    [
+      -25.25,
+      -53.75,
+      237
+    ],
+    [
+      -20.75,
+      -43.75,
+      234
+    ],
+    [
+      -31.75,
+      -52.25,
+      234
+    ],
+    [
+      -23.75,
+      -51.25,
+      228
+    ],
+    [
+      -23.25,
+      -45.25,
+      226
+    ],
+    [
+      -19.75,
+      -40.25,
+      223
+    ],
+    [
+      -26.25,
+      -49.25,
+      212
+    ],
+    [
+      -21.25,
+      -42.25,
+      208
+    ],
+    [
+      -25.25,
+      -49.75,
+      205
+    ],
+    [
+      -12.75,
+      -60.25,
+      202
+    ],
+    [
+      -22.25,
+      -44.25,
+      199
+    ],
+    [
+      -29.75,
+      -53.75,
+      199
+    ],
+    [
+      -21.75,
+      -43.25,
+      197
+    ],
+    [
+      -21.75,
+      -42.75,
+      196
+    ],
+    [
+      -22.25,
+      -45.75,
+      196
+    ],
+    [
+      -18.75,
+      -39.75,
+      196
+    ],
+    [
+      -15.75,
+      -52.25,
+      192
+    ],
+    [
+      -19.75,
+      -44.75,
+      192
+    ],
+    [
+      -21.25,
+      -43.75,
+      191
+    ],
+    [
+      -29.25,
+      -49.75,
+      191
+    ],
+    [
+      -9.25,
+      -40.25,
+      190
+    ],
+    [
+      -20.75,
+      -54.75,
+      190
+    ],
+    [
+      -25.25,
+      -50.75,
+      189
+    ],
+    [
+      -20.25,
+      -54.75,
+      186
+    ],
+    [
+      -25.25,
+      -54.25,
+      183
+    ],
+    [
+      -20.75,
+      -40.75,
+      182
+    ],
+    [
+      -22.25,
+      -42.75,
+      177
+    ],
+    [
+      -19.25,
+      -44.25,
+      176
+    ],
+    [
+      -20.75,
+      -44.75,
+      176
+    ],
+    [
+      -21.25,
+      -45.25,
+      173
+    ],
+    [
+      -16.25,
+      -54.75,
+      173
+    ],
+    [
+      -9.25,
+      -40.75,
+      172
+    ],
+    [
+      -22.25,
+      -54.75,
+      170
+    ],
+    [
+      -26.75,
+      -52.75,
+      169
+    ],
+    [
+      -23.25,
+      -44.75,
+      164
+    ],
+    [
+      -27.75,
+      -50.25,
+      163
+    ],
+    [
+      -30.25,
+      -51.25,
+      162
+    ],
+    [
+      -17.75,
+      -50.75,
+      160
+    ],
+    [
+      -20.25,
+      -40.75,
+      160
+    ],
+    [
+      -23.25,
+      -50.25,
+      160
+    ],
+    [
+      -23.75,
+      -51.75,
+      159
+    ],
+    [
+      -9.75,
+      -36.25,
+      150
+    ],
+    [
+      -23.25,
+      -52.25,
+      149
+    ],
+    [
+      -10.75,
+      -61.75,
+      149
+    ],
+    [
+      -22.25,
+      -44.75,
+      147
+    ],
+    [
+      -5.25,
+      -49.25,
+      146
+    ],
+    [
+      -14.75,
+      -39.25,
+      146
+    ],
+    [
+      -25.75,
+      -54.75,
+      145
+    ],
+    [
+      -24.25,
+      -47.25,
+      144
+    ],
+    [
+      -17.75,
+      -39.75,
+      143
+    ],
+    [
+      -24.75,
+      -53.75,
+      143
+    ],
+    [
+      -1.25,
+      -47.75,
+      142
+    ],
+    [
+      -7.25,
+      -48.25,
+      142
+    ],
+    [
+      -21.75,
+      -45.25,
+      141
+    ],
+    [
+      -26.75,
+      -53.25,
+      140
+    ],
+    [
+      -26.75,
+      -52.25,
+      138
+    ],
+    [
+      -23.25,
+      -44.25,
+      137
+    ],
+    [
+      -9.25,
+      -35.75,
+      136
+    ],
+    [
+      -16.25,
+      -39.75,
+      136
+    ],
+    [
+      -25.25,
+      -51.25,
+      134
+    ],
+    [
+      -8.25,
+      -36.25,
+      131
+    ],
+    [
+      -12.75,
+      -39.25,
+      130
+    ],
+    [
+      -20.25,
+      -41.25,
+      129
+    ],
+    [
+      -18.75,
+      -49.25,
+      127
+    ],
+    [
+      -29.75,
+      -50.25,
+      127
+    ],
+    [
+      -26.25,
+      -50.25,
+      126
+    ],
+    [
+      -27.25,
+      -51.75,
+      125
+    ],
+    [
+      -7.25,
+      -35.25,
+      124
+    ],
+    [
+      -17.75,
+      -41.75,
+      124
+    ],
+    [
+      -15.75,
+      -55.75,
+      123
+    ],
+    [
+      -11.75,
+      -55.25,
+      123
+    ],
+    [
+      -19.25,
+      -42.25,
+      119
+    ],
+    [
+      -10.25,
+      -48.25,
+      119
+    ],
+    [
+      -8.75,
+      -36.25,
+      119
+    ],
+    [
+      -25.75,
+      -49.75,
+      115
+    ],
+    [
+      -10.25,
+      -67.75,
+      115
+    ],
+    [
+      -2.75,
+      -41.75,
+      113
+    ],
+    [
+      -25.25,
+      -52.25,
+      113
+    ],
+    [
+      -12.75,
+      -55.75,
+      109
+    ],
+    [
+      -26.25,
+      -53.75,
+      108
+    ],
+    [
+      -24.25,
+      -47.75,
+      108
+    ],
+    [
+      -26.75,
+      -53.75,
+      105
+    ],
+    [
+      -7.25,
+      -41.25,
+      105
+    ],
+    [
+      -6.25,
+      -35.25,
+      104
+    ],
+    [
+      -10.25,
+      -62.25,
+      103
+    ],
+    [
+      -16.25,
+      -39.25,
+      103
+    ],
+    [
+      -22.75,
+      -44.75,
+      103
+    ],
+    [
+      -13.75,
+      -40.25,
+      102
+    ],
+    [
+      -18.25,
+      -49.25,
+      102
+    ],
+    [
+      -12.25,
+      -38.25,
+      102
+    ],
+    [
+      -22.25,
+      -43.75,
+      102
+    ],
+    [
+      -20.75,
+      -42.25,
+      102
+    ],
+    [
+      -1.25,
+      -48.25,
+      101
+    ],
+    [
+      -27.25,
+      -51.25,
+      101
+    ],
+    [
+      -20.25,
+      -41.75,
+      100
+    ],
+    [
+      -29.75,
+      -50.75,
+      100
+    ],
+    [
+      -5.75,
+      -47.25,
+      100
+    ],
+    [
+      -12.25,
+      -55.75,
+      100
+    ],
+    [
+      -27.25,
+      -53.25,
+      99
+    ],
+    [
+      -27.75,
+      -49.25,
+      99
+    ],
+    [
+      -16.25,
+      -49.25,
+      99
+    ],
+    [
+      -25.25,
+      -52.75,
+      98
+    ],
+    [
+      -6.75,
+      -43.25,
+      98
+    ],
+    [
+      -29.25,
+      -52.25,
+      98
+    ],
+    [
+      -19.75,
+      -42.75,
+      96
+    ],
+    [
+      -9.75,
+      -35.75,
+      94
+    ],
+    [
+      -17.25,
+      -46.75,
+      93
+    ],
+    [
+      -16.75,
+      -43.75,
+      93
+    ],
+    [
+      -22.25,
+      -46.25,
+      93
+    ],
+    [
+      0.25,
+      -51.25,
+      92
+    ],
+    [
+      -15.75,
+      -55.25,
+      91
+    ],
+    [
+      -32.25,
+      -52.25,
+      91
+    ],
+    [
+      -16.75,
+      -47.75,
+      90
+    ],
+    [
+      -29.75,
+      -51.75,
+      89
+    ],
+    [
+      -27.25,
+      -50.25,
+      89
+    ],
+    [
+      -4.25,
+      -38.25,
+      88
+    ],
+    [
+      -12.75,
+      -38.75,
+      86
+    ],
+    [
+      -6.75,
+      -35.25,
+      86
+    ],
+    [
+      -19.75,
+      -45.25,
+      86
+    ],
+    [
+      -10.75,
+      -62.25,
+      86
+    ],
+    [
+      -24.75,
+      -47.75,
+      86
+    ],
+    [
+      -7.75,
+      -35.25,
+      85
+    ],
+    [
+      -18.25,
+      -39.75,
+      85
+    ],
+    [
+      -8.75,
+      -36.75,
+      84
+    ],
+    [
+      -11.25,
+      -37.25,
+      83
+    ],
+    [
+      -9.75,
+      -67.75,
+      82
+    ],
+    [
+      -23.25,
+      -50.75,
+      82
+    ],
+    [
+      -12.75,
+      -39.75,
+      80
+    ],
+    [
+      -28.75,
+      -50.75,
+      80
+    ],
+    [
+      -14.25,
+      -56.25,
+      80
+    ],
+    [
+      -16.25,
+      -48.25,
+      79
+    ],
+    [
+      -15.25,
+      -59.25,
+      79
+    ],
+    [
+      -14.75,
+      -56.25,
+      79
+    ],
+    [
+      -19.75,
+      -40.75,
+      79
+    ],
+    [
+      -9.75,
+      -63.25,
+      78
+    ],
+    [
+      -26.25,
+      -52.75,
+      77
+    ],
+    [
+      -28.25,
+      -53.75,
+      77
+    ],
+    [
+      -19.75,
+      -48.75,
+      77
+    ],
+    [
+      -10.75,
+      -38.75,
+      77
+    ],
+    [
+      -11.75,
+      -55.75,
+      76
+    ],
+    [
+      -23.75,
+      -47.25,
+      76
+    ],
+    [
+      -19.25,
+      -48.25,
+      76
+    ],
+    [
+      -28.25,
+      -49.25,
+      75
+    ],
+    [
+      -28.25,
+      -54.75,
+      75
+    ],
+    [
+      -28.25,
+      -52.75,
+      75
+    ],
+    [
+      -10.25,
+      -54.75,
+      74
+    ],
+    [
+      -12.25,
+      -39.25,
+      73
+    ],
+    [
+      -24.25,
+      -50.75,
+      73
+    ],
+    [
+      -17.75,
+      -49.25,
+      73
+    ],
+    [
+      -21.75,
+      -46.25,
+      73
+    ],
+    [
+      -8.25,
+      -39.25,
+      73
+    ],
+    [
+      -16.25,
+      -43.25,
+      73
+    ],
+    [
+      -3.75,
+      -40.25,
+      72
+    ],
+    [
+      -23.75,
+      -54.25,
+      72
+    ],
+    [
+      -25.75,
+      -50.75,
+      72
+    ],
+    [
+      -17.25,
+      -49.25,
+      72
+    ],
+    [
+      -15.75,
+      -47.25,
+      71
+    ],
+    [
+      -7.75,
+      -38.25,
+      71
+    ],
+    [
+      -28.75,
+      -51.75,
+      70
+    ],
+    [
+      -26.25,
+      -50.75,
+      70
+    ],
+    [
+      -11.25,
+      -61.75,
+      70
+    ],
+    [
+      -26.25,
+      -51.25,
+      70
+    ],
+    [
+      2.75,
+      -60.75,
+      69
+    ],
+    [
+      -16.75,
+      -54.75,
+      68
+    ],
+    [
+      -11.25,
+      -61.25,
+      68
+    ],
+    [
+      -3.75,
+      -38.25,
+      67
+    ],
+    [
+      -3.75,
+      -45.25,
+      67
+    ],
+    [
+      -19.75,
+      -48.25,
+      67
+    ],
+    [
+      -27.25,
+      -49.25,
+      67
+    ],
+    [
+      -24.75,
+      -50.25,
+      66
+    ],
+    [
+      -18.25,
+      -47.75,
+      66
+    ],
+    [
+      -19.75,
+      -45.75,
+      66
+    ],
+    [
+      -22.25,
+      -42.25,
+      66
+    ],
+    [
+      -8.75,
+      -35.75,
+      66
+    ],
+    [
+      -27.75,
+      -52.25,
+      66
+    ],
+    [
+      -13.75,
+      -56.25,
+      65
+    ],
+    [
+      -24.25,
+      -52.25,
+      65
+    ],
+    [
+      -25.25,
+      -54.75,
+      65
+    ],
+    [
+      -11.75,
+      -61.25,
+      65
+    ],
+    [
+      -8.25,
+      -37.25,
+      65
+    ],
+    [
+      -27.75,
+      -53.25,
+      64
+    ],
+    [
+      -21.25,
+      -41.75,
+      64
+    ],
+    [
+      -23.25,
+      -49.75,
+      64
+    ],
+    [
+      -6.75,
+      -38.75,
+      64
+    ],
+    [
+      -28.75,
+      -49.75,
+      64
+    ],
+    [
+      -17.25,
+      -39.75,
+      64
+    ],
+    [
+      -18.75,
+      -46.75,
+      63
+    ],
+    [
+      -20.75,
+      -41.25,
+      63
+    ],
+    [
+      -4.75,
+      -42.25,
+      63
+    ],
+    [
+      -18.25,
+      -45.25,
+      63
+    ],
+    [
+      -15.75,
+      -48.75,
+      62
+    ],
+    [
+      -4.75,
+      -47.25,
+      62
+    ],
+    [
+      -15.75,
+      -54.75,
+      62
+    ],
+    [
+      -3.75,
+      -40.75,
+      62
+    ],
+    [
+      -20.25,
+      -49.25,
+      62
+    ],
+    [
+      -16.25,
+      -42.25,
+      61
+    ],
+    [
+      -25.25,
+      -51.75,
+      61
+    ],
+    [
+      -28.25,
+      -52.25,
+      61
+    ],
+    [
+      -27.25,
+      -52.75,
+      60
+    ],
+    [
+      -24.75,
+      -50.75,
+      60
+    ],
+    [
+      -4.25,
+      -41.75,
+      60
+    ],
+    [
+      -4.25,
+      -47.75,
+      59
+    ],
+    [
+      -3.25,
+      -44.25,
+      59
+    ],
+    [
+      -30.25,
+      -51.75,
+      59
+    ],
+    [
+      -4.25,
+      -38.75,
+      59
+    ],
+    [
+      -16.75,
+      -49.75,
+      58
+    ],
+    [
+      -4.25,
+      -44.25,
+      58
+    ],
+    [
+      -26.75,
+      -50.25,
+      58
+    ],
+    [
+      -10.25,
+      -36.75,
+      58
+    ],
+    [
+      -8.25,
+      -36.75,
+      58
+    ],
+    [
+      -9.75,
+      -54.75,
+      58
+    ],
+    [
+      -14.25,
+      -39.25,
+      58
+    ],
+    [
+      -15.75,
+      -54.25,
+      57
+    ],
+    [
+      -7.75,
+      -40.25,
+      57
+    ],
+    [
+      -13.75,
+      -39.25,
+      57
+    ],
+    [
+      -30.75,
+      -51.75,
+      56
+    ],
+    [
+      -13.25,
+      -55.75,
+      56
+    ],
+    [
+      -27.25,
+      -50.75,
+      56
+    ],
+    [
+      -6.75,
+      -38.25,
+      56
+    ],
+    [
+      -4.75,
+      -43.25,
+      56
+    ],
+    [
+      -17.25,
+      -50.25,
+      55
+    ],
+    [
+      -15.75,
+      -41.25,
+      55
+    ],
+    [
+      -9.25,
+      -36.25,
+      55
+    ],
+    [
+      -1.25,
+      -47.25,
+      55
+    ],
+    [
+      -10.75,
+      -55.25,
+      55
+    ],
+    [
+      -26.75,
+      -51.75,
+      55
+    ],
+    [
+      -18.75,
+      -48.75,
+      54
+    ],
+    [
+      -23.25,
+      -54.25,
+      54
+    ],
+    [
+      -21.75,
+      -45.75,
+      54
+    ],
+    [
+      -4.75,
+      -37.75,
+      54
+    ],
+    [
+      -14.25,
+      -40.25,
+      54
+    ],
+    [
+      -29.75,
+      -57.25,
+      54
+    ],
+    [
+      -15.75,
+      -49.25,
+      54
+    ],
+    [
+      -11.75,
+      -49.25,
+      53
+    ],
+    [
+      -11.25,
+      -37.75,
+      53
+    ],
+    [
+      -24.25,
+      -54.25,
+      53
+    ],
+    [
+      -20.25,
+      -42.75,
+      53
+    ],
+    [
+      -9.25,
+      -36.75,
+      52
+    ],
+    [
+      -10.25,
+      -62.75,
+      52
+    ],
+    [
+      -5.25,
+      -42.25,
+      52
+    ],
+    [
+      -11.75,
+      -38.75,
+      52
+    ],
+    [
+      -17.75,
+      -46.25,
+      52
+    ],
+    [
+      -22.75,
+      -42.25,
+      52
+    ],
+    [
+      -28.25,
+      -50.75,
+      51
+    ],
+    [
+      -23.75,
+      -50.25,
+      51
+    ],
+    [
+      -11.75,
+      -37.75,
+      51
+    ],
+    [
+      -25.75,
+      -53.75,
+      50
+    ],
+    [
+      -13.25,
+      -39.25,
+      50
+    ],
+    [
+      -17.75,
+      -51.75,
+      50
+    ],
+    [
+      -24.25,
+      -52.75,
+      50
+    ],
+    [
+      -21.25,
+      -41.25,
+      49
+    ],
+    [
+      -19.75,
+      -46.25,
+      49
+    ],
+    [
+      -6.75,
+      -37.75,
+      48
+    ],
+    [
+      -13.25,
+      -60.75,
+      48
+    ],
+    [
+      -5.75,
+      -35.75,
+      48
+    ],
+    [
+      -10.25,
+      -48.75,
+      48
+    ],
+    [
+      -3.25,
+      -41.75,
+      48
+    ],
+    [
+      -19.25,
+      -44.75,
+      47
+    ],
+    [
+      -22.25,
+      -41.75,
+      47
+    ],
+    [
+      -15.25,
+      -49.75,
+      47
+    ],
+    [
+      -30.25,
+      -52.25,
+      47
+    ],
+    [
+      -19.25,
+      -54.75,
+      47
+    ],
+    [
+      -16.25,
+      -57.75,
+      47
+    ],
+    [
+      -14.75,
+      -49.25,
+      47
+    ],
+    [
+      -19.25,
+      -48.75,
+      46
+    ],
+    [
+      -19.75,
+      -51.25,
+      46
+    ],
+    [
+      -7.25,
+      -38.75,
+      46
+    ],
+    [
+      -6.75,
+      -42.75,
+      46
+    ],
+    [
+      -12.25,
+      -45.25,
+      46
+    ],
+    [
+      -13.25,
+      -39.75,
+      45
+    ],
+    [
+      -21.25,
+      -49.75,
+      45
+    ],
+    [
+      -14.25,
+      -49.25,
+      45
+    ],
+    [
+      -31.25,
+      -52.75,
+      45
+    ],
+    [
+      -18.25,
+      -41.75,
+      45
+    ],
+    [
+      -12.25,
+      -44.75,
+      45
+    ],
+    [
+      -30.25,
+      -53.75,
+      44
+    ],
+    [
+      -20.25,
+      -54.25,
+      44
+    ],
+    [
+      -13.75,
+      -49.25,
+      44
+    ],
+    [
+      -28.75,
+      -52.25,
+      44
+    ],
+    [
+      -11.25,
+      -55.25,
+      44
+    ],
+    [
+      -5.75,
+      -36.75,
+      44
+    ],
+    [
+      -14.25,
+      -46.25,
+      44
+    ],
+    [
+      -7.25,
+      -36.25,
+      44
+    ],
+    [
+      -9.25,
+      -37.25,
+      44
+    ],
+    [
+      -28.75,
+      -51.25,
+      43
+    ],
+    [
+      -3.25,
+      -52.25,
+      43
+    ],
+    [
+      -9.25,
+      -38.25,
+      43
+    ],
+    [
+      -7.25,
+      -37.25,
+      43
+    ],
+    [
+      -15.25,
+      -48.75,
+      43
+    ],
+    [
+      -18.75,
+      -54.75,
+      43
+    ],
+    [
+      -4.25,
+      -55.75,
+      43
+    ],
+    [
+      -25.75,
+      -50.25,
+      42
+    ],
+    [
+      -21.75,
+      -49.75,
+      42
+    ],
+    [
+      -15.25,
+      -56.25,
+      42
+    ],
+    [
+      -25.75,
+      -52.25,
+      42
+    ],
+    [
+      -31.25,
+      -52.25,
+      42
+    ],
+    [
+      -4.25,
+      -39.25,
+      42
+    ],
+    [
+      -5.25,
+      -47.25,
+      42
+    ],
+    [
+      -5.75,
+      -42.75,
+      42
+    ],
+    [
+      -20.25,
+      -48.75,
+      42
+    ],
+    [
+      -19.75,
+      -46.75,
+      41
+    ],
+    [
+      -19.75,
+      -54.25,
+      41
+    ],
+    [
+      -8.75,
+      -48.75,
+      41
+    ],
+    [
+      -28.25,
+      -51.75,
+      41
+    ],
+    [
+      -10.25,
+      -40.25,
+      41
+    ],
+    [
+      -7.75,
+      -46.25,
+      40
+    ],
+    [
+      -30.25,
+      -52.75,
+      40
+    ],
+    [
+      -15.25,
+      -41.25,
+      40
+    ],
+    [
+      -11.25,
+      -38.75,
+      40
+    ],
+    [
+      -6.75,
+      -36.75,
+      40
+    ],
+    [
+      -29.75,
+      -52.25,
+      39
+    ],
+    [
+      -2.75,
+      -60.25,
+      39
+    ],
+    [
+      -14.75,
+      -40.25,
+      39
+    ],
+    [
+      -3.75,
+      -39.75,
+      39
+    ],
+    [
+      -21.25,
+      -54.25,
+      39
+    ],
+    [
+      -22.75,
+      -54.75,
+      39
+    ],
+    [
+      -11.75,
+      -38.25,
+      38
+    ],
+    [
+      -18.75,
+      -42.25,
+      38
+    ],
+    [
+      -28.75,
+      -52.75,
+      38
+    ],
+    [
+      -29.25,
+      -54.75,
+      38
+    ],
+    [
+      -21.75,
+      -41.75,
+      38
+    ],
+    [
+      -16.75,
+      -54.25,
+      38
+    ],
+    [
+      -31.75,
+      -52.75,
+      38
+    ],
+    [
+      -16.75,
+      -39.75,
+      38
+    ],
+    [
+      -15.75,
+      -52.75,
+      37
+    ],
+    [
+      -21.75,
+      -43.75,
+      37
+    ],
+    [
+      -7.25,
+      -55.25,
+      37
+    ],
+    [
+      -6.25,
+      -36.25,
+      37
+    ],
+    [
+      -17.25,
+      -44.75,
+      37
+    ],
+    [
+      -17.25,
+      -41.75,
+      37
+    ],
+    [
+      -15.25,
+      -47.25,
+      36
+    ],
+    [
+      -20.75,
+      -51.75,
+      36
+    ],
+    [
+      -18.75,
+      -44.75,
+      36
+    ],
+    [
+      -20.25,
+      -44.75,
+      36
+    ],
+    [
+      -28.25,
+      -53.25,
+      35
+    ],
+    [
+      -5.25,
+      -45.25,
+      35
+    ],
+    [
+      -16.75,
+      -41.75,
+      35
+    ],
+    [
+      -15.25,
+      -39.25,
+      34
+    ],
+    [
+      -17.75,
+      -51.25,
+      34
+    ],
+    [
+      -16.25,
+      -42.75,
+      34
+    ],
+    [
+      -24.25,
+      -51.25,
+      34
+    ],
+    [
+      -5.75,
+      -49.25,
+      34
+    ],
+    [
+      -13.25,
+      -40.25,
+      34
+    ],
+    [
+      -12.25,
+      -41.75,
+      34
+    ],
+    [
+      -17.25,
+      -53.25,
+      34
+    ],
+    [
+      -17.75,
+      -47.75,
+      33
+    ],
+    [
+      -6.25,
+      -36.75,
+      33
+    ],
+    [
+      -18.75,
+      -50.75,
+      33
+    ],
+    [
+      -8.75,
+      -39.25,
+      33
+    ],
+    [
+      -9.25,
+      -63.25,
+      33
+    ],
+    [
+      -21.25,
+      -56.25,
+      33
+    ],
+    [
+      -2.75,
+      -54.75,
+      33
+    ],
+    [
+      -12.25,
+      -60.75,
+      33
+    ],
+    [
+      -14.75,
+      -46.75,
+      33
+    ],
+    [
+      -12.25,
+      -45.75,
+      32
+    ],
+    [
+      -13.25,
+      -49.25,
+      31
+    ],
+    [
+      -30.25,
+      -54.75,
+      31
+    ],
+    [
+      -6.75,
+      -34.75,
+      31
+    ],
+    [
+      -18.75,
+      -49.75,
+      31
+    ],
+    [
+      -4.75,
+      -47.75,
+      31
+    ],
+    [
+      -6.25,
+      -38.75,
+      31
+    ],
+    [
+      -9.25,
+      -44.25,
+      31
+    ],
+    [
+      -3.75,
+      -39.25,
+      31
+    ],
+    [
+      -30.25,
+      -53.25,
+      30
+    ],
+    [
+      -17.75,
+      -54.75,
+      30
+    ],
+    [
+      -13.25,
+      -56.25,
+      30
+    ],
+    [
+      -20.25,
+      -53.75,
+      30
+    ],
+    [
+      -22.25,
+      -49.75,
+      30
+    ],
+    [
+      -8.25,
+      -48.25,
+      30
+    ],
+    [
+      -27.75,
+      -49.75,
+      30
+    ],
+    [
+      -6.75,
+      -41.75,
+      30
+    ],
+    [
+      -6.25,
+      -38.25,
+      30
+    ],
+    [
+      -3.75,
+      -41.25,
+      29
+    ],
+    [
+      -9.25,
+      -48.75,
+      29
+    ],
+    [
+      -6.75,
+      -37.25,
+      29
+    ],
+    [
+      -28.75,
+      -53.75,
+      29
+    ],
+    [
+      -28.25,
+      -51.25,
+      29
+    ],
+    [
+      -30.25,
+      -54.25,
+      29
+    ],
+    [
+      -22.75,
+      -49.75,
+      29
+    ],
+    [
+      -21.75,
+      -54.75,
+      29
+    ],
+    [
+      -25.25,
+      -53.25,
+      28
+    ],
+    [
+      -15.75,
+      -41.75,
+      28
+    ],
+    [
+      -11.25,
+      -40.25,
+      28
+    ],
+    [
+      -21.75,
+      -52.25,
+      27
+    ],
+    [
+      -16.25,
+      -41.25,
+      27
+    ],
+    [
+      -7.25,
+      -40.75,
+      27
+    ],
+    [
+      3.75,
+      -51.75,
+      27
+    ],
+    [
+      -21.75,
+      -44.75,
+      27
+    ],
+    [
+      -4.75,
+      -56.25,
+      27
+    ],
+    [
+      -12.25,
+      -41.25,
+      27
+    ],
+    [
+      -18.75,
+      -47.75,
+      27
+    ],
+    [
+      -11.75,
+      -39.25,
+      27
+    ],
+    [
+      -6.25,
+      -35.75,
+      27
+    ],
+    [
+      -19.25,
+      -51.75,
+      27
+    ],
+    [
+      -4.75,
+      -38.25,
+      27
+    ],
+    [
+      -14.25,
+      -52.25,
+      27
+    ],
+    [
+      -3.75,
+      -44.75,
+      26
+    ],
+    [
+      -10.25,
+      -55.25,
+      26
+    ],
+    [
+      -31.25,
+      -53.75,
+      26
+    ],
+    [
+      -17.75,
+      -41.25,
+      26
+    ],
+    [
+      -18.75,
+      -47.25,
+      26
+    ],
+    [
+      -17.25,
+      -47.75,
+      26
+    ],
+    [
+      -22.75,
+      -52.75,
+      26
+    ],
+    [
+      -6.25,
+      -42.75,
+      26
+    ],
+    [
+      -5.75,
+      -37.25,
+      26
+    ],
+    [
+      -5.75,
+      -37.75,
+      25
+    ],
+    [
+      -7.75,
+      -39.25,
+      25
+    ],
+    [
+      -16.25,
+      -57.25,
+      25
+    ],
+    [
+      -6.25,
+      -47.25,
+      25
+    ],
+    [
+      -18.25,
+      -45.75,
+      25
+    ],
+    [
+      -30.75,
+      -55.75,
+      25
+    ],
+    [
+      0.75,
+      -51.25,
+      25
+    ],
+    [
+      -17.25,
+      -41.25,
+      25
+    ],
+    [
+      -27.75,
+      -50.75,
+      25
+    ],
+    [
+      -28.25,
+      -54.25,
+      24
+    ],
+    [
+      -15.75,
+      -53.75,
+      24
+    ],
+    [
+      -14.75,
+      -52.25,
+      24
+    ],
+    [
+      -8.75,
+      -35.25,
+      24
+    ],
+    [
+      -7.75,
+      -63.25,
+      24
+    ],
+    [
+      -7.25,
+      -36.75,
+      24
+    ],
+    [
+      -29.75,
+      -54.25,
+      24
+    ],
+    [
+      -28.75,
+      -55.75,
+      23
+    ],
+    [
+      -16.75,
+      -44.25,
+      23
+    ],
+    [
+      -24.75,
+      -54.25,
+      23
+    ],
+    [
+      -5.25,
+      -38.25,
+      23
+    ],
+    [
+      -27.75,
+      -51.25,
+      23
+    ],
+    [
+      -27.75,
+      -54.25,
+      23
+    ],
+    [
+      -9.75,
+      -48.75,
+      23
+    ],
+    [
+      -11.25,
+      -48.75,
+      23
+    ],
+    [
+      -7.75,
+      -36.25,
+      23
+    ],
+    [
+      -30.75,
+      -53.25,
+      23
+    ],
+    [
+      -13.75,
+      -59.75,
+      23
+    ],
+    [
+      -18.25,
+      -54.75,
+      23
+    ],
+    [
+      -18.25,
+      -48.25,
+      23
+    ],
+    [
+      -7.75,
+      -48.25,
+      23
+    ],
+    [
+      -21.75,
+      -54.25,
+      23
+    ],
+    [
+      -10.75,
+      -48.75,
+      22
+    ],
+    [
+      -29.75,
+      -56.75,
+      22
+    ],
+    [
+      -2.25,
+      -47.75,
+      22
+    ],
+    [
+      -20.25,
+      -51.25,
+      22
+    ],
+    [
+      -6.25,
+      -37.25,
+      22
+    ],
+    [
+      -24.25,
+      -50.25,
+      22
+    ],
+    [
+      -13.75,
+      -52.25,
+      22
+    ],
+    [
+      -7.25,
+      -41.75,
+      22
+    ],
+    [
+      -17.75,
+      -45.25,
+      22
+    ],
+    [
+      -15.75,
+      -50.75,
+      21
+    ],
+    [
+      -12.25,
+      -43.25,
+      21
+    ],
+    [
+      -9.75,
+      -38.25,
+      21
+    ],
+    [
+      -12.25,
+      -49.25,
+      21
+    ],
+    [
+      -19.25,
+      -42.75,
+      21
+    ],
+    [
+      -18.25,
+      -51.25,
+      21
+    ],
+    [
+      -10.75,
+      -38.25,
+      21
+    ],
+    [
+      -10.25,
+      -38.25,
+      21
+    ],
+    [
+      -15.75,
+      -56.75,
+      21
+    ],
+    [
+      -5.75,
+      -36.25,
+      21
+    ],
+    [
+      -29.75,
+      -54.75,
+      21
+    ],
+    [
+      -18.75,
+      -46.25,
+      21
+    ],
+    [
+      -11.75,
+      -39.75,
+      21
+    ],
+    [
+      -29.25,
+      -53.75,
+      21
+    ],
+    [
+      -11.75,
+      -44.75,
+      21
+    ],
+    [
+      -13.75,
+      -39.75,
+      21
+    ],
+    [
+      -6.25,
+      -55.75,
+      21
+    ],
+    [
+      -16.75,
+      -53.75,
+      20
+    ],
+    [
+      -17.25,
+      -49.75,
+      20
+    ],
+    [
+      -16.75,
+      -39.25,
+      20
+    ],
+    [
+      -14.25,
+      -39.75,
+      20
+    ],
+    [
+      -21.25,
+      -55.75,
+      20
+    ],
+    [
+      -27.75,
+      -54.75,
+      20
+    ],
+    [
+      -15.25,
+      -48.25,
+      20
+    ],
+    [
+      -18.25,
+      -49.75,
+      20
+    ],
+    [
+      -17.25,
+      -44.25,
+      20
+    ],
+    [
+      -19.75,
+      -47.25,
+      20
+    ],
+    [
+      -5.25,
+      -48.75,
+      20
+    ],
+    [
+      -22.25,
+      -53.75,
+      20
+    ],
+    [
+      -9.25,
+      -37.75,
+      19
+    ],
+    [
+      -13.25,
+      -44.75,
+      19
+    ],
+    [
+      -20.25,
+      -55.25,
+      19
+    ],
+    [
+      -8.75,
+      -63.25,
+      19
+    ],
+    [
+      -10.25,
+      -63.25,
+      19
+    ],
+    [
+      -4.75,
+      -43.75,
+      19
+    ],
+    [
+      -26.25,
+      -53.25,
+      19
+    ],
+    [
+      -1.75,
+      -47.75,
+      19
+    ],
+    [
+      -1.25,
+      -46.75,
+      19
+    ],
+    [
+      -12.25,
+      -42.25,
+      19
+    ],
+    [
+      -12.75,
+      -40.25,
+      19
+    ],
+    [
+      -17.25,
+      -54.75,
+      19
+    ],
+    [
+      -15.75,
+      -57.75,
+      19
+    ],
+    [
+      -7.25,
+      -42.25,
+      18
+    ],
+    [
+      -5.25,
+      -39.75,
+      18
+    ],
+    [
+      -12.75,
+      -49.25,
+      18
+    ],
+    [
+      -9.75,
+      -45.25,
+      18
+    ],
+    [
+      -15.75,
+      -58.25,
+      18
+    ],
+    [
+      -4.75,
+      -55.75,
+      18
+    ],
+    [
+      -27.75,
+      -53.75,
+      18
+    ],
+    [
+      -30.75,
+      -55.25,
+      18
+    ],
+    [
+      -8.75,
+      -48.25,
+      17
+    ],
+    [
+      -8.25,
+      -37.75,
+      17
+    ],
+    [
+      -15.75,
+      -39.75,
+      17
+    ],
+    [
+      -27.75,
+      -52.75,
+      17
+    ],
+    [
+      -4.75,
+      -37.25,
+      17
+    ],
+    [
+      -8.25,
+      -38.25,
+      17
+    ],
+    [
+      -10.75,
+      -36.75,
+      17
+    ],
+    [
+      -10.25,
+      -45.25,
+      17
+    ],
+    [
+      -29.75,
+      -55.75,
+      17
+    ],
+    [
+      -10.75,
+      -65.25,
+      17
+    ],
+    [
+      -5.25,
+      -47.75,
+      17
+    ],
+    [
+      -14.75,
+      -48.75,
+      17
+    ],
+    [
+      -8.75,
+      -54.75,
+      17
+    ],
+    [
+      -6.75,
+      -39.25,
+      17
+    ],
+    [
+      -9.75,
+      -40.25,
+      17
+    ],
+    [
+      -18.25,
+      -46.25,
+      16
+    ],
+    [
+      -3.25,
+      -47.25,
+      16
+    ],
+    [
+      -28.25,
+      -55.25,
+      16
+    ],
+    [
+      -13.25,
+      -59.75,
+      16
+    ],
+    [
+      -5.25,
+      -56.25,
+      16
+    ],
+    [
+      -14.75,
+      -59.25,
+      16
+    ],
+    [
+      -21.25,
+      -42.75,
+      16
+    ],
+    [
+      -8.25,
+      -55.25,
+      16
+    ],
+    [
+      -22.75,
+      -55.75,
+      16
+    ],
+    [
+      -22.25,
+      -54.25,
+      16
+    ],
+    [
+      -2.75,
+      -47.25,
+      16
+    ],
+    [
+      -10.75,
+      -40.25,
+      16
+    ],
+    [
+      -8.75,
+      -38.75,
+      16
+    ],
+    [
+      -20.75,
+      -55.25,
+      16
+    ],
+    [
+      -20.75,
+      -40.25,
+      16
+    ],
+    [
+      -27.25,
+      -53.75,
+      15
+    ],
+    [
+      -15.75,
+      -53.25,
+      15
+    ],
+    [
+      -3.75,
+      -41.75,
+      15
+    ],
+    [
+      -5.75,
+      -38.75,
+      15
+    ],
+    [
+      -5.25,
+      -44.25,
+      15
+    ],
+    [
+      -21.75,
+      -52.75,
+      15
+    ],
+    [
+      -7.25,
+      -46.25,
+      15
+    ],
+    [
+      -21.75,
+      -53.75,
+      15
+    ],
+    [
+      -17.25,
+      -47.25,
+      15
+    ],
+    [
+      -20.75,
+      -55.75,
+      15
+    ],
+    [
+      -20.75,
+      -49.75,
+      15
+    ],
+    [
+      -8.75,
+      -44.25,
+      15
+    ],
+    [
+      -15.75,
+      -57.25,
+      15
+    ],
+    [
+      -9.75,
+      -36.75,
+      15
+    ],
+    [
+      -9.25,
+      -64.25,
+      15
+    ],
+    [
+      -20.25,
+      -52.75,
+      15
+    ],
+    [
+      -11.25,
+      -38.25,
+      15
+    ],
+    [
+      -19.25,
+      -57.75,
+      15
+    ],
+    [
+      -10.25,
+      -37.75,
+      15
+    ],
+    [
+      -20.25,
+      -56.25,
+      15
+    ],
+    [
+      -12.25,
+      -40.75,
+      15
+    ],
+    [
+      -17.75,
+      -45.75,
+      15
+    ],
+    [
+      -11.25,
+      -39.75,
+      15
+    ],
+    [
+      -17.75,
+      -52.25,
+      15
+    ],
+    [
+      -15.75,
+      -51.25,
+      14
+    ],
+    [
+      -26.75,
+      -51.25,
+      14
+    ],
+    [
+      -20.25,
+      -53.25,
+      14
+    ],
+    [
+      -16.75,
+      -47.25,
+      14
+    ],
+    [
+      -16.75,
+      -41.25,
+      14
+    ],
+    [
+      -23.75,
+      -52.75,
+      14
+    ],
+    [
+      -12.75,
+      -45.75,
+      14
+    ],
+    [
+      -8.75,
+      -39.75,
+      14
+    ],
+    [
+      -21.75,
+      -44.25,
+      14
+    ],
+    [
+      -10.25,
+      -65.25,
+      14
+    ],
+    [
+      -3.75,
+      -45.75,
+      14
+    ],
+    [
+      -6.25,
+      -41.75,
+      13
+    ],
+    [
+      -6.25,
+      -37.75,
+      13
+    ],
+    [
+      -4.25,
+      -45.75,
+      13
+    ],
+    [
+      -27.25,
+      -52.25,
+      13
+    ],
+    [
+      -2.25,
+      -60.25,
+      13
+    ],
+    [
+      -32.25,
+      -53.25,
+      13
+    ],
+    [
+      -6.25,
+      -47.75,
+      13
+    ],
+    [
+      -1.75,
+      -46.25,
+      13
+    ],
+    [
+      -18.75,
+      -45.25,
+      13
+    ],
+    [
+      -4.25,
+      -46.25,
+      13
+    ],
+    [
+      -3.25,
+      -51.75,
+      12
+    ],
+    [
+      -5.75,
+      -45.25,
+      12
+    ],
+    [
+      -32.75,
+      -53.25,
+      12
+    ],
+    [
+      -20.25,
+      -55.75,
+      12
+    ],
+    [
+      -15.25,
+      -49.25,
+      12
+    ],
+    [
+      -5.75,
+      -55.75,
+      12
+    ],
+    [
+      -10.25,
+      -39.25,
+      12
+    ],
+    [
+      -24.75,
+      -52.75,
+      12
+    ],
+    [
+      -8.25,
+      -38.75,
+      12
+    ],
+    [
+      -11.25,
+      -62.25,
+      12
+    ],
+    [
+      2.25,
+      -60.75,
+      12
+    ],
+    [
+      -9.25,
+      -54.75,
+      12
+    ],
+    [
+      -1.75,
+      -60.25,
+      12
+    ],
+    [
+      -19.25,
+      -40.75,
+      12
+    ],
+    [
+      -5.25,
+      -55.75,
+      11
+    ],
+    [
+      -8.25,
+      -41.25,
+      11
+    ],
+    [
+      -9.25,
+      -68.75,
+      11
+    ],
+    [
+      -5.25,
+      -43.25,
+      11
+    ],
+    [
+      -13.75,
+      -59.25,
+      11
+    ],
+    [
+      -13.75,
+      -46.25,
+      11
+    ],
+    [
+      -17.25,
+      -51.75,
+      11
+    ],
+    [
+      -8.75,
+      -40.75,
+      11
+    ],
+    [
+      -4.75,
+      -48.25,
+      11
+    ],
+    [
+      -19.25,
+      -53.25,
+      11
+    ],
+    [
+      -22.25,
+      -55.25,
+      11
+    ],
+    [
+      -3.25,
+      -44.75,
+      11
+    ],
+    [
+      -31.75,
+      -53.25,
+      11
+    ],
+    [
+      -3.25,
+      -52.75,
+      11
+    ],
+    [
+      -9.75,
+      -39.25,
+      11
+    ],
+    [
+      -4.25,
+      -44.75,
+      11
+    ],
+    [
+      -1.75,
+      -46.75,
+      11
+    ],
+    [
+      -30.25,
+      -56.25,
+      11
+    ],
+    [
+      -6.75,
+      -55.25,
+      11
+    ],
+    [
+      -6.75,
+      -42.25,
+      11
+    ],
+    [
+      -6.75,
+      -47.25,
+      11
+    ],
+    [
+      -10.75,
+      -68.25,
+      11
+    ],
+    [
+      -13.75,
+      -45.25,
+      11
+    ],
+    [
+      -12.25,
+      -42.75,
+      11
+    ],
+    [
+      -24.75,
+      -48.75,
+      11
+    ],
+    [
+      -10.75,
+      -37.75,
+      11
+    ],
+    [
+      -29.75,
+      -52.75,
+      10
+    ],
+    [
+      -16.75,
+      -51.75,
+      10
+    ],
+    [
+      -22.75,
+      -46.75,
+      10
+    ],
+    [
+      -2.75,
+      -45.75,
+      10
+    ],
+    [
+      -12.25,
+      -44.25,
+      10
+    ],
+    [
+      -21.75,
+      -55.25,
+      10
+    ],
+    [
+      -17.25,
+      -52.75,
+      10
+    ],
+    [
+      -5.25,
+      -35.25,
+      10
+    ],
+    [
+      -6.75,
+      -47.75,
+      10
+    ],
+    [
+      -18.75,
+      -50.25,
+      10
+    ],
+    [
+      -15.75,
+      -39.25,
+      10
+    ],
+    [
+      -15.25,
+      -56.75,
+      10
+    ],
+    [
+      -7.75,
+      -55.25,
+      10
+    ],
+    [
+      -33.75,
+      -53.25,
+      10
+    ],
+    [
+      -6.75,
+      -35.75,
+      10
+    ],
+    [
+      3.25,
+      -60.25,
+      10
+    ],
+    [
+      -17.75,
+      -50.25,
+      9
+    ],
+    [
+      -21.25,
+      -44.75,
+      9
+    ],
+    [
+      -22.25,
+      -53.25,
+      9
+    ],
+    [
+      -11.75,
+      -60.75,
+      9
+    ],
+    [
+      -19.75,
+      -41.25,
+      9
+    ],
+    [
+      -20.25,
+      -56.75,
+      9
+    ],
+    [
+      -1.75,
+      -47.25,
+      9
+    ],
+    [
+      -14.75,
+      -59.75,
+      9
+    ],
+    [
+      -15.75,
+      -58.75,
+      9
+    ],
+    [
+      -22.75,
+      -54.25,
+      9
+    ],
+    [
+      -6.75,
+      -36.25,
+      9
+    ],
+    [
+      -6.25,
+      -42.25,
+      9
+    ],
+    [
+      -7.25,
+      -47.25,
+      9
+    ],
+    [
+      -13.25,
+      -44.25,
+      9
+    ],
+    [
+      -11.25,
+      -45.25,
+      9
+    ],
+    [
+      -21.25,
+      -46.25,
+      9
+    ],
+    [
+      -18.25,
+      -50.25,
+      9
+    ],
+    [
+      -5.75,
+      -48.75,
+      9
+    ],
+    [
+      -21.25,
+      -51.75,
+      9
+    ],
+    [
+      -7.25,
+      -37.75,
+      8
+    ],
+    [
+      -18.75,
+      -52.75,
+      8
+    ],
+    [
+      -32.25,
+      -52.75,
+      8
+    ],
+    [
+      -3.25,
+      -45.75,
+      8
+    ],
+    [
+      -27.75,
+      -55.25,
+      8
+    ],
+    [
+      -30.75,
+      -53.75,
+      8
+    ],
+    [
+      -29.25,
+      -56.25,
+      8
+    ],
+    [
+      -6.25,
+      -48.75,
+      8
+    ],
+    [
+      -16.25,
+      -52.25,
+      8
+    ],
+    [
+      -16.25,
+      -41.75,
+      8
+    ],
+    [
+      -30.75,
+      -52.25,
+      8
+    ],
+    [
+      -30.25,
+      -55.25,
+      8
+    ],
+    [
+      -5.25,
+      -37.75,
+      8
+    ],
+    [
+      -9.75,
+      -65.75,
+      8
+    ],
+    [
+      -7.75,
+      -37.25,
+      8
+    ],
+    [
+      -7.25,
+      -46.75,
+      8
+    ],
+    [
+      -13.25,
+      -51.75,
+      8
+    ],
+    [
+      -7.75,
+      -38.75,
+      8
+    ],
+    [
+      -23.25,
+      -53.75,
+      8
+    ],
+    [
+      -12.25,
+      -43.75,
+      8
+    ],
+    [
+      -25.75,
+      -54.25,
+      8
+    ],
+    [
+      -5.75,
+      -42.25,
+      8
+    ],
+    [
+      -5.75,
+      -38.25,
+      8
+    ],
+    [
+      -19.75,
+      -56.75,
+      8
+    ],
+    [
+      -4.75,
+      -44.25,
+      8
+    ],
+    [
+      -15.25,
+      -52.25,
+      8
+    ],
+    [
+      -5.25,
+      -44.75,
+      8
+    ],
+    [
+      -13.75,
+      -45.75,
+      8
+    ],
+    [
+      -3.75,
+      -47.75,
+      8
+    ],
+    [
+      -31.25,
+      -54.25,
+      7
+    ],
+    [
+      -7.75,
+      -72.75,
+      7
+    ],
+    [
+      -14.25,
+      -59.75,
+      7
+    ],
+    [
+      0.75,
+      -60.25,
+      7
+    ],
+    [
+      -23.25,
+      -52.75,
+      7
+    ],
+    [
+      -25.75,
+      -52.75,
+      7
+    ],
+    [
+      -24.75,
+      -52.25,
+      7
+    ],
+    [
+      -11.75,
+      -62.75,
+      7
+    ],
+    [
+      -7.75,
+      -36.75,
+      7
+    ],
+    [
+      -20.75,
+      -52.25,
+      7
+    ],
+    [
+      -21.75,
+      -53.25,
+      7
+    ],
+    [
+      -8.75,
+      -40.25,
+      7
+    ],
+    [
+      -8.25,
+      -43.75,
+      7
+    ],
+    [
+      -11.25,
+      -68.75,
+      7
+    ],
+    [
+      -10.25,
+      -67.25,
+      7
+    ],
+    [
+      -19.25,
+      -51.25,
+      7
+    ],
+    [
+      -21.25,
+      -52.25,
+      7
+    ],
+    [
+      -24.75,
+      -49.25,
+      7
+    ],
+    [
+      -13.25,
+      -60.25,
+      7
+    ],
+    [
+      -9.75,
+      -66.75,
+      7
+    ],
+    [
+      -10.75,
+      -45.25,
+      7
+    ],
+    [
+      -4.75,
+      -39.25,
+      7
+    ],
+    [
+      -17.75,
+      -46.75,
+      7
+    ],
+    [
+      -9.25,
+      -64.75,
+      7
+    ],
+    [
+      -3.25,
+      -59.75,
+      7
+    ],
+    [
+      -6.75,
+      -44.75,
+      7
+    ],
+    [
+      -11.75,
+      -49.75,
+      7
+    ],
+    [
+      3.25,
+      -60.75,
+      7
+    ],
+    [
+      -15.75,
+      -51.75,
+      7
+    ],
+    [
+      3.25,
+      -59.75,
+      6
+    ],
+    [
+      -19.25,
+      -41.75,
+      6
+    ],
+    [
+      -4.25,
+      -46.75,
+      6
+    ],
+    [
+      -6.75,
+      -44.25,
+      6
+    ],
+    [
+      -6.75,
+      -48.25,
+      6
+    ],
+    [
+      -27.25,
+      -54.25,
+      6
+    ],
+    [
+      -5.75,
+      -48.25,
+      6
+    ],
+    [
+      -21.25,
+      -55.25,
+      6
+    ],
+    [
+      -5.25,
+      -43.75,
+      6
+    ],
+    [
+      -19.75,
+      -57.25,
+      6
+    ],
+    [
+      -12.75,
+      -51.75,
+      6
+    ],
+    [
+      -10.75,
+      -39.25,
+      6
+    ],
+    [
+      -19.25,
+      -50.25,
+      6
+    ],
+    [
+      -21.75,
+      -56.25,
+      6
+    ],
+    [
+      -20.75,
+      -52.75,
+      6
+    ],
+    [
+      -8.75,
+      -38.25,
+      6
+    ],
+    [
+      -21.75,
+      -56.75,
+      6
+    ],
+    [
+      -19.25,
+      -49.25,
+      6
+    ],
+    [
+      -10.75,
+      -68.75,
+      6
+    ],
+    [
+      -7.75,
+      -43.75,
+      6
+    ],
+    [
+      -15.25,
+      -40.75,
+      6
+    ],
+    [
+      -29.25,
+      -55.25,
+      6
+    ],
+    [
+      1.25,
+      -60.25,
+      6
+    ],
+    [
+      -6.25,
+      -49.25,
+      6
+    ],
+    [
+      -28.75,
+      -56.25,
+      6
+    ],
+    [
+      -19.25,
+      -50.75,
+      5
+    ],
+    [
+      -10.75,
+      -67.75,
+      5
+    ],
+    [
+      -17.25,
+      -45.25,
+      5
+    ],
+    [
+      -5.75,
+      -46.25,
+      5
+    ],
+    [
+      -5.25,
+      -36.75,
+      5
+    ],
+    [
+      2.25,
+      -61.25,
+      5
+    ],
+    [
+      -2.75,
+      -43.25,
+      5
+    ],
+    [
+      -18.75,
+      -40.25,
+      5
+    ],
+    [
+      -22.75,
+      -53.25,
+      5
+    ],
+    [
+      -8.75,
+      -55.25,
+      5
+    ],
+    [
+      -7.75,
+      -41.25,
+      5
+    ],
+    [
+      -8.25,
+      -63.75,
+      5
+    ],
+    [
+      -9.75,
+      -67.25,
+      5
+    ],
+    [
+      -17.75,
+      -40.25,
+      5
+    ],
+    [
+      -16.25,
+      -47.25,
+      5
+    ],
+    [
+      -8.25,
+      -39.75,
+      5
+    ],
+    [
+      -6.25,
+      -40.25,
+      5
+    ],
+    [
+      -29.25,
+      -56.75,
+      5
+    ],
+    [
+      -3.25,
+      -41.25,
+      5
+    ],
+    [
+      -32.75,
+      -52.75,
+      5
+    ],
+    [
+      -14.75,
+      -47.25,
+      5
+    ],
+    [
+      -16.25,
+      -43.75,
+      5
+    ],
+    [
+      -6.25,
+      -43.75,
+      5
+    ],
+    [
+      -31.75,
+      -53.75,
+      4
+    ],
+    [
+      -13.25,
+      -46.25,
+      4
+    ],
+    [
+      -12.25,
+      -48.75,
+      4
+    ],
+    [
+      -5.75,
+      -40.25,
+      4
+    ],
+    [
+      -9.25,
+      -44.75,
+      4
+    ],
+    [
+      -9.75,
+      -39.75,
+      4
+    ],
+    [
+      -9.75,
+      -38.75,
+      4
+    ],
+    [
+      -21.25,
+      -54.75,
+      4
+    ],
+    [
+      -10.75,
+      -48.25,
+      4
+    ],
+    [
+      -16.25,
+      -58.25,
+      4
+    ],
+    [
+      -6.75,
+      -43.75,
+      4
+    ],
+    [
+      -3.25,
+      -39.75,
+      4
+    ],
+    [
+      -5.25,
+      -35.75,
+      4
+    ],
+    [
+      -2.25,
+      -45.75,
+      4
+    ],
+    [
+      -4.75,
+      -49.75,
+      4
+    ],
+    [
+      -4.25,
+      -42.25,
+      4
+    ],
+    [
+      1.75,
+      -50.75,
+      4
+    ],
+    [
+      -3.25,
+      -51.25,
+      4
+    ],
+    [
+      1.25,
+      -60.75,
+      4
+    ],
+    [
+      -30.75,
+      -54.75,
+      4
+    ],
+    [
+      -1.25,
+      -60.25,
+      4
+    ],
+    [
+      -0.75,
+      -60.75,
+      4
+    ],
+    [
+      -14.25,
+      -57.75,
+      4
+    ],
+    [
+      -14.25,
+      -56.75,
+      4
+    ],
+    [
+      -3.25,
+      -40.25,
+      4
+    ],
+    [
+      0.75,
+      -51.75,
+      4
+    ],
+    [
+      -11.75,
+      -48.75,
+      4
+    ],
+    [
+      -20.75,
+      -54.25,
+      4
+    ],
+    [
+      -7.25,
+      -63.25,
+      4
+    ],
+    [
+      -17.75,
+      -52.75,
+      4
+    ],
+    [
+      -17.75,
+      -39.25,
+      4
+    ],
+    [
+      -9.75,
+      -68.25,
+      4
+    ],
+    [
+      -22.75,
+      -55.25,
+      4
+    ],
+    [
+      -18.25,
+      -51.75,
+      4
+    ],
+    [
+      -12.25,
+      -60.25,
+      4
+    ],
+    [
+      -19.25,
+      -53.75,
+      4
+    ],
+    [
+      -7.75,
+      -40.75,
+      4
+    ],
+    [
+      -15.75,
+      -49.75,
+      3
+    ],
+    [
+      -7.25,
+      -45.25,
+      3
+    ],
+    [
+      -18.75,
+      -51.25,
+      3
+    ],
+    [
+      1.25,
+      -51.25,
+      3
+    ],
+    [
+      -2.75,
+      -43.75,
+      3
+    ],
+    [
+      -2.75,
+      -47.75,
+      3
+    ],
+    [
+      -28.75,
+      -50.25,
+      3
+    ],
+    [
+      -3.75,
+      -43.75,
+      3
+    ],
+    [
+      1.75,
+      -60.75,
+      3
+    ],
+    [
+      3.25,
+      -51.75,
+      3
+    ],
+    [
+      -3.75,
+      -60.25,
+      3
+    ],
+    [
+      -2.25,
+      -54.75,
+      3
+    ],
+    [
+      -4.75,
+      -39.75,
+      3
+    ],
+    [
+      -4.75,
+      -41.75,
+      3
+    ],
+    [
+      -9.75,
+      -66.25,
+      3
+    ],
+    [
+      -13.25,
+      -43.75,
+      3
+    ],
+    [
+      -9.75,
+      -65.25,
+      3
+    ],
+    [
+      -11.25,
+      -44.75,
+      3
+    ],
+    [
+      -9.75,
+      -44.75,
+      3
+    ],
+    [
+      -5.75,
+      -44.25,
+      3
+    ],
+    [
+      -9.25,
+      -45.75,
+      3
+    ],
+    [
+      -13.75,
+      -51.75,
+      3
+    ],
+    [
+      -5.75,
+      -45.75,
+      3
+    ],
+    [
+      -25.75,
+      -51.75,
+      3
+    ],
+    [
+      -6.75,
+      -55.75,
+      3
+    ],
+    [
+      -4.75,
+      -46.75,
+      3
+    ],
+    [
+      -27.25,
+      -48.25,
+      3
+    ],
+    [
+      -5.25,
+      -36.25,
+      3
+    ],
+    [
+      -7.25,
+      -38.25,
+      3
+    ],
+    [
+      -10.75,
+      -69.25,
+      3
+    ],
+    [
+      -2.25,
+      -59.75,
+      3
+    ],
+    [
+      -11.75,
+      -63.25,
+      3
+    ],
+    [
+      -8.75,
+      -43.75,
+      3
+    ],
+    [
+      -7.25,
+      -45.75,
+      3
+    ],
+    [
+      -7.25,
+      -50.25,
+      3
+    ],
+    [
+      -21.75,
+      -57.25,
+      3
+    ],
+    [
+      -4.25,
+      -60.75,
+      3
+    ],
+    [
+      -10.25,
+      -38.75,
+      3
+    ],
+    [
+      -16.25,
+      -51.75,
+      3
+    ],
+    [
+      -16.25,
+      -49.75,
+      3
+    ],
+    [
+      -6.25,
+      -46.75,
+      3
+    ],
+    [
+      -6.25,
+      -62.75,
+      3
+    ],
+    [
+      -15.25,
+      -39.75,
+      3
+    ],
+    [
+      -29.75,
+      -49.75,
+      3
+    ],
+    [
+      -0.25,
+      -60.75,
+      2
+    ],
+    [
+      -2.75,
+      -40.25,
+      2
+    ],
+    [
+      -29.75,
+      -56.25,
+      2
+    ],
+    [
+      -0.25,
+      -51.75,
+      2
+    ],
+    [
+      -3.75,
+      -47.25,
+      2
+    ],
+    [
+      -3.75,
+      -42.25,
+      2
+    ],
+    [
+      -3.25,
+      -53.25,
+      2
+    ],
+    [
+      -3.25,
+      -54.75,
+      2
+    ],
+    [
+      -3.75,
+      -50.75,
+      2
+    ],
+    [
+      -28.75,
+      -55.25,
+      2
+    ],
+    [
+      -3.75,
+      -53.25,
+      2
+    ],
+    [
+      -3.75,
+      -53.75,
+      2
+    ],
+    [
+      -8.75,
+      -68.75,
+      2
+    ],
+    [
+      -8.75,
+      -69.75,
+      2
+    ],
+    [
+      -8.25,
+      -70.75,
+      2
+    ],
+    [
+      -8.75,
+      -37.75,
+      2
+    ],
+    [
+      -8.25,
+      -54.75,
+      2
+    ],
+    [
+      -7.25,
+      -62.75,
+      2
+    ],
+    [
+      -7.75,
+      -35.75,
+      2
+    ],
+    [
+      -7.75,
+      -72.25,
+      2
+    ],
+    [
+      -15.75,
+      -59.25,
+      2
+    ],
+    [
+      -14.25,
+      -46.75,
+      2
+    ],
+    [
+      -7.75,
+      -39.75,
+      2
+    ],
+    [
+      -6.25,
+      -48.25,
+      2
+    ],
+    [
+      -16.25,
+      -54.25,
+      2
+    ],
+    [
+      -6.75,
+      -45.25,
+      2
+    ],
+    [
+      -33.25,
+      -53.25,
+      2
+    ],
+    [
+      -33.25,
+      -52.75,
+      2
+    ],
+    [
+      -11.25,
+      -48.25,
+      2
+    ],
+    [
+      -19.25,
+      -54.25,
+      2
+    ],
+    [
+      -12.25,
+      -40.25,
+      2
+    ],
+    [
+      -11.75,
+      -59.75,
+      2
+    ],
+    [
+      -18.25,
+      -54.25,
+      2
+    ],
+    [
+      -4.25,
+      -45.25,
+      2
+    ],
+    [
+      2.25,
+      -50.75,
+      2
+    ],
+    [
+      -30.75,
+      -51.25,
+      2
+    ],
+    [
+      -15.25,
+      -59.75,
+      2
+    ],
+    [
+      -30.25,
+      -57.25,
+      2
+    ],
+    [
+      -30.75,
+      -56.25,
+      2
+    ],
+    [
+      3.75,
+      -60.75,
+      2
+    ],
+    [
+      2.75,
+      -51.25,
+      2
+    ],
+    [
+      2.75,
+      -60.25,
+      2
+    ],
+    [
+      2.25,
+      -51.25,
+      2
+    ],
+    [
+      -13.75,
+      -49.75,
+      2
+    ],
+    [
+      -23.75,
+      -53.25,
+      2
+    ],
+    [
+      -5.75,
+      -47.75,
+      2
+    ],
+    [
+      -24.25,
+      -53.25,
+      2
+    ],
+    [
+      -5.25,
+      -62.25,
+      2
+    ],
+    [
+      -19.75,
+      -53.75,
+      2
+    ],
+    [
+      -9.25,
+      -39.25,
+      2
+    ],
+    [
+      1.25,
+      -50.75,
+      2
+    ],
+    [
+      -12.25,
+      -55.25,
+      2
+    ],
+    [
+      -13.25,
+      -45.75,
+      2
+    ],
+    [
+      -12.25,
+      -63.25,
+      2
+    ],
+    [
+      -12.75,
+      -41.25,
+      2
+    ],
+    [
+      -18.25,
+      -53.75,
+      2
+    ],
+    [
+      -12.25,
+      -47.75,
+      2
+    ],
+    [
+      -9.75,
+      -48.25,
+      2
+    ],
+    [
+      -12.25,
+      -48.25,
+      2
+    ],
+    [
+      -15.25,
+      -54.75,
+      1
+    ],
+    [
+      -2.25,
+      -48.25,
+      1
+    ],
+    [
+      -3.25,
+      -60.25,
+      1
+    ],
+    [
+      -3.75,
+      -46.75,
+      1
+    ],
+    [
+      -3.75,
+      -44.25,
+      1
+    ],
+    [
+      -3.75,
+      -51.25,
+      1
+    ],
+    [
+      -3.75,
+      -54.25,
+      1
+    ],
+    [
+      -28.25,
+      -50.25,
+      1
+    ],
+    [
+      -3.75,
+      -50.25,
+      1
+    ],
+    [
+      -0.25,
+      -61.25,
+      1
+    ],
+    [
+      -0.75,
+      -47.75,
+      1
+    ],
+    [
+      -0.75,
+      -52.25,
+      1
+    ],
+    [
+      0.75,
+      -59.75,
+      1
+    ],
+    [
+      -29.25,
+      -55.75,
+      1
+    ],
+    [
+      -2.75,
+      -48.75,
+      1
+    ],
+    [
+      -2.75,
+      -42.75,
+      1
+    ],
+    [
+      -14.25,
+      -48.25,
+      1
+    ],
+    [
+      -7.25,
+      -63.75,
+      1
+    ],
+    [
+      -7.75,
+      -37.75,
+      1
+    ],
+    [
+      -7.75,
+      -62.25,
+      1
+    ],
+    [
+      -7.75,
+      -60.75,
+      1
+    ],
+    [
+      -14.75,
+      -52.75,
+      1
+    ],
+    [
+      -14.25,
+      -57.25,
+      1
+    ],
+    [
+      -22.25,
+      -56.75,
+      1
+    ],
+    [
+      -6.75,
+      -39.75,
+      1
+    ],
+    [
+      -16.25,
+      -40.75,
+      1
+    ],
+    [
+      -16.25,
+      -50.75,
+      1
+    ],
+    [
+      -6.75,
+      -41.25,
+      1
+    ],
+    [
+      -23.25,
+      -43.25,
+      1
+    ],
+    [
+      -22.75,
+      -47.25,
+      1
+    ],
+    [
+      -6.75,
+      -49.75,
+      1
+    ],
+    [
+      -7.25,
+      -43.25,
+      1
+    ],
+    [
+      -7.25,
+      -43.75,
+      1
+    ],
+    [
+      -13.75,
+      -57.75,
+      1
+    ],
+    [
+      -13.75,
+      -58.75,
+      1
+    ],
+    [
+      -14.25,
+      -44.75,
+      1
+    ],
+    [
+      -19.75,
+      -49.25,
+      1
+    ],
+    [
+      -5.25,
+      -61.75,
+      1
+    ],
+    [
+      -5.75,
+      -54.75,
+      1
+    ],
+    [
+      -5.75,
+      -39.75,
+      1
+    ],
+    [
+      -5.75,
+      -39.25,
+      1
+    ],
+    [
+      -24.25,
+      -48.25,
+      1
+    ],
+    [
+      -23.75,
+      -50.75,
+      1
+    ],
+    [
+      -5.75,
+      -62.25,
+      1
+    ],
+    [
+      -8.75,
+      -70.25,
+      1
+    ],
+    [
+      -8.25,
+      -63.25,
+      1
+    ],
+    [
+      -8.25,
+      -70.25,
+      1
+    ],
+    [
+      -8.25,
+      -61.75,
+      1
+    ],
+    [
+      -8.25,
+      -50.25,
+      1
+    ],
+    [
+      -21.75,
+      -55.75,
+      1
+    ],
+    [
+      -21.75,
+      -57.75,
+      1
+    ],
+    [
+      -8.75,
+      -69.25,
+      1
+    ],
+    [
+      -8.75,
+      -64.25,
+      1
+    ],
+    [
+      -13.75,
+      -44.75,
+      1
+    ],
+    [
+      -22.75,
+      -45.75,
+      1
+    ],
+    [
+      -14.75,
+      -56.75,
+      1
+    ],
+    [
+      -14.75,
+      -58.75,
+      1
+    ],
+    [
+      -6.25,
+      -40.75,
+      1
+    ],
+    [
+      -17.25,
+      -46.25,
+      1
+    ],
+    [
+      -16.25,
+      -58.75,
+      1
+    ],
+    [
+      -16.75,
+      -48.75,
+      1
+    ],
+    [
+      -13.75,
+      -50.25,
+      1
+    ],
+    [
+      -25.75,
+      -51.25,
+      1
+    ],
+    [
+      -25.25,
+      -48.25,
+      1
+    ],
+    [
+      -5.25,
+      -45.75,
+      1
+    ],
+    [
+      -18.25,
+      -53.25,
+      1
+    ],
+    [
+      -12.25,
+      -51.75,
+      1
+    ],
+    [
+      -12.25,
+      -59.75,
+      1
+    ],
+    [
+      -13.75,
+      -38.75,
+      1
+    ],
+    [
+      -13.25,
+      -43.25,
+      1
+    ],
+    [
+      -13.25,
+      -54.75,
+      1
+    ],
+    [
+      -12.75,
+      -48.75,
+      1
+    ],
+    [
+      -12.75,
+      -59.75,
+      1
+    ],
+    [
+      -5.25,
+      -40.25,
+      1
+    ],
+    [
+      -4.75,
+      -61.75,
+      1
+    ],
+    [
+      -4.75,
+      -49.25,
+      1
+    ],
+    [
+      -26.75,
+      -49.75,
+      1
+    ],
+    [
+      -4.75,
+      -42.75,
+      1
+    ],
+    [
+      -4.75,
+      -38.75,
+      1
+    ],
+    [
+      -4.75,
+      -36.75,
+      1
+    ],
+    [
+      -4.25,
+      -49.75,
+      1
+    ],
+    [
+      -19.25,
+      -39.75,
+      1
+    ],
+    [
+      -11.75,
+      -62.25,
+      1
+    ],
+    [
+      -11.75,
+      -58.75,
+      1
+    ],
+    [
+      -11.25,
+      -49.25,
+      1
+    ],
+    [
+      -19.25,
+      -57.25,
+      1
+    ],
+    [
+      -19.25,
+      -46.25,
+      1
+    ],
+    [
+      -17.75,
+      -48.75,
+      1
+    ],
+    [
+      -12.25,
+      -39.75,
+      1
+    ],
+    [
+      -10.75,
+      -69.75,
+      1
+    ],
+    [
+      4.25,
+      -61.25,
+      1
+    ],
+    [
+      1.75,
+      -61.25,
+      1
+    ],
+    [
+      3.75,
+      -61.25,
+      1
+    ],
+    [
+      -30.25,
+      -57.75,
+      1
+    ],
+    [
+      -15.25,
+      -58.75,
+      1
+    ],
+    [
+      -1.75,
+      -45.75,
+      1
+    ],
+    [
+      -31.75,
+      -54.25,
+      1
+    ]
+  ],
+  "map_valid_points_2025": 72529,
+  "map_excluded_points_2025": 0,
+  "audit": [
+    {
+      "year": 2023,
+      "file": "datatran2023.zip",
+      "sha256": "b233c47d16b3980a6692472f9fe1bbab57698700fbb918d22628a5c0a382d985",
+      "source_url": "https://drive.google.com/file/d/1-WO3SfNrwwZ5_l7fRTiwBKRw7mi1-HUq/view",
+      "rows_read": 67766,
+      "columns": [
+        "id",
+        "data_inversa",
+        "dia_semana",
+        "horario",
+        "uf",
+        "br",
+        "km",
+        "municipio",
+        "causa_acidente",
+        "tipo_acidente",
+        "classificacao_acidente",
+        "fase_dia",
+        "sentido_via",
+        "condicao_metereologica",
+        "tipo_pista",
+        "tracado_via",
+        "uso_solo",
+        "pessoas",
+        "mortos",
+        "feridos_leves",
+        "feridos_graves",
+        "ilesos",
+        "ignorados",
+        "feridos",
+        "veiculos",
+        "latitude",
+        "longitude",
+        "regional",
+        "delegacia",
+        "uop"
+      ],
+      "duplicates_full": 0,
+      "duplicates_id": 0,
+      "invalid_date": 0,
+      "rows_outside_year": 0,
+      "invalid_hour": 0,
+      "negative_deaths": 0,
+      "negative_injured": 0,
+      "rows_after_validation": 67766,
+      "invalid_coordinates": 0,
+      "missing_uf": 0,
+      "missing_type": 0,
+      "missing_cause": 0,
+      "missing_classification": 1,
+      "missing_death_count": 0,
+      "date_min": "2023-01-01",
+      "date_max": "2023-12-31"
+    },
+    {
+      "year": 2024,
+      "file": "datatran2024.zip",
+      "sha256": "905dac836867297b261e4edefff6cdb470809814e7e1796b3f2f57517099d165",
+      "source_url": "https://drive.google.com/file/d/14lB0vqMFkaZj8HZ44b0njYgxs9nAN8KO/view",
+      "rows_read": 73202,
+      "columns": [
+        "id",
+        "data_inversa",
+        "dia_semana",
+        "horario",
+        "uf",
+        "br",
+        "km",
+        "municipio",
+        "causa_acidente",
+        "tipo_acidente",
+        "classificacao_acidente",
+        "fase_dia",
+        "sentido_via",
+        "condicao_metereologica",
+        "tipo_pista",
+        "tracado_via",
+        "uso_solo",
+        "pessoas",
+        "mortos",
+        "feridos_leves",
+        "feridos_graves",
+        "ilesos",
+        "ignorados",
+        "feridos",
+        "veiculos",
+        "latitude",
+        "longitude",
+        "regional",
+        "delegacia",
+        "uop"
+      ],
+      "duplicates_full": 0,
+      "duplicates_id": 0,
+      "invalid_date": 0,
+      "rows_outside_year": 0,
+      "invalid_hour": 0,
+      "negative_deaths": 0,
+      "negative_injured": 0,
+      "rows_after_validation": 73202,
+      "invalid_coordinates": 0,
+      "missing_uf": 0,
+      "missing_type": 0,
+      "missing_cause": 0,
+      "missing_classification": 1,
+      "missing_death_count": 0,
+      "date_min": "2024-01-01",
+      "date_max": "2024-12-31"
+    },
+    {
+      "year": 2025,
+      "file": "datatran2025.zip",
+      "sha256": "52c8a631ac9d428bf845e2fa996b8c61f66b219f7014a61d292f9d95d186bb0f",
+      "source_url": "https://drive.google.com/file/d/1-G3MdmHBt6CprDwcW99xxC4BZ2DU5ryR/view",
+      "rows_read": 72529,
+      "columns": [
+        "id",
+        "data_inversa",
+        "dia_semana",
+        "horario",
+        "uf",
+        "br",
+        "km",
+        "municipio",
+        "causa_acidente",
+        "tipo_acidente",
+        "classificacao_acidente",
+        "fase_dia",
+        "sentido_via",
+        "condicao_metereologica",
+        "tipo_pista",
+        "tracado_via",
+        "uso_solo",
+        "pessoas",
+        "mortos",
+        "feridos_leves",
+        "feridos_graves",
+        "ilesos",
+        "ignorados",
+        "feridos",
+        "veiculos",
+        "latitude",
+        "longitude",
+        "regional",
+        "delegacia",
+        "uop"
+      ],
+      "duplicates_full": 0,
+      "duplicates_id": 0,
+      "invalid_date": 0,
+      "rows_outside_year": 0,
+      "invalid_hour": 0,
+      "negative_deaths": 0,
+      "negative_injured": 0,
+      "rows_after_validation": 72529,
+      "invalid_coordinates": 0,
+      "missing_uf": 0,
+      "missing_type": 0,
+      "missing_cause": 0,
+      "missing_classification": 1,
+      "missing_death_count": 0,
+      "date_min": "2025-01-01",
+      "date_max": "2025-12-31"
+    }
+  ]
+}

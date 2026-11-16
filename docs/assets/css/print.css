@@ -1,0 +1,146 @@
+/* Rodovias em Dados v5.0 | Estilo exclusivo de impressão e exportação em PDF.
+   Página A4 em retrato. Figuras impressas em SVG, nunca capturas de gráficos JS.
+   Chrome / Edge: imprimir > Salvar como PDF > A4 / escala padrão / gráficos de fundo. */
+@page {
+  size: A4 portrait;
+  margin: 16mm 16mm 18mm;
+  @bottom-left {content:"RODOVIAS EM DADOS · ARTIGO ACADÊMICO";font:7.4pt Arial,sans-serif;color:#5B7064;}
+  @bottom-right {content:counter(page);font:8pt Arial,sans-serif;color:#476456;}
+}
+@media print {
+  *,*::before,*::after {box-shadow:none!important;animation:none!important;transition:none!important;text-shadow:none!important;}
+  html,body {margin:0!important;padding:0!important;width:auto!important;min-width:0!important;background:#fff!important;color:#172e25!important;color-scheme:light!important;print-color-adjust:exact!important;-webkit-print-color-adjust:exact!important;scroll-behavior:auto!important;}
+  body {font-family:Georgia,'Times New Roman',serif!important;font-size:10.1pt!important;line-height:1.48!important;}
+  .masthead,.article-nav,.reading-progress,.opening-actions,.chart-controls,.chart-tools,.data-table-details,.back-to-top,.footer,.skip-link,.glossary-grid,.source-ledger,.replication-details > summary,.research-card__arrow {display:none!important;}
+  .print-citation {display:block!important;text-transform:uppercase;letter-spacing:.11em;color:#476658!important;font:700 8pt Arial,sans-serif!important;margin:0 0 8mm!important;}
+  .article-opening.article-opening--text {max-width:none!important;display:block!important;margin:0!important;padding:3mm 0 5mm!important;}
+  .opening-text {max-width:none!important;}
+  .opening-overline {margin:0 0 4mm!important;font:700 8pt Arial,sans-serif!important;color:#2d705a!important;}
+  .article-opening h1 {font-family:Georgia,'Times New Roman',serif!important;font-size:25pt!important;line-height:1.15!important;letter-spacing:-.02em!important;color:#153e30!important;margin:0 0 5mm!important;max-width:none!important;}
+  .article-period {display:inline!important;margin:0 0 4mm!important;font:700 9pt Arial,sans-serif!important;background:none!important;color:#205741!important;padding:0!important;}
+  .author-band {display:flex!important;gap:8mm!important;margin:5mm 0 3mm!important;padding:3mm 0!important;border-top:1px solid #d5dfd5;border-bottom:1px solid #d5dfd5;}
+  .author-band__item {flex:1!important;gap:5px!important;}
+  .author-band__item svg {width:14px!important;height:14px!important;}
+  .author-band__item strong,.author-band__item span {font:normal 8.2pt/1.4 Arial,sans-serif!important;color:#263f33!important;}
+  .author-band__item strong {font-weight:700!important;}
+  .author-band__rule {min-height:9mm!important;}
+  .overview-strip {display:block!important;margin:5mm 0 5mm!important;padding:0!important;}
+  .overview-strip__inner {display:grid!important;grid-template-columns:repeat(4,1fr)!important;border:1px solid #d4ded5!important;border-radius:5px!important;background:#fff!important;gap:0!important;}
+  .overview-metric {min-width:0!important;min-height:0!important;padding:3.3mm 2.1mm!important;border-right:1px solid #d8dfd8!important;border-bottom:0!important;background:#fff!important;}
+  .overview-metric:last-child {border-right:0!important;}
+  .overview-metric--accent {background:#eaf1e9!important;}
+  .overview-metric__label {font:700 6.5pt/1.3 Arial,sans-serif!important;letter-spacing:.025em!important;color:#285843!important;}
+  .overview-metric strong {font:700 16pt/1.1 Georgia,serif!important;margin:2mm 0!important;letter-spacing:-.02em!important;color:#183d30!important;}
+  .overview-metric > span:last-child {font:7pt/1.25 Arial,sans-serif!important;color:#496156!important;}
+  .overview-disclaimer {font:7.5pt Arial,sans-serif!important;color:#6d7b70!important;margin:2mm 0!important;}
+  .article-body {max-width:none!important;width:100%!important;padding:0!important;margin:0!important;}
+  .article-body > .section {margin:4.5mm 0 0!important;padding:0!important;display:block!important;}
+  .section,.reading-column,.finding {max-width:none!important;break-inside:auto!important;page-break-inside:auto!important;}
+  .section-rule {height:0!important;margin:0!important;background:none!important;}
+  .section-title {font-family:Georgia,'Times New Roman',serif!important;font-size:18pt!important;line-height:1.18!important;margin:4mm 0 3mm!important;padding:0 0 2mm!important;letter-spacing:-.02em!important;color:#183f32!important;break-after:avoid-page!important;}
+  .section-title::after {height:1.7px!important;width:26px!important;background:#B77F3E!important;}
+  .article-body p {font:10.1pt/1.5 Georgia,'Times New Roman',serif!important;line-height:1.5!important;color:#202c27!important;letter-spacing:0!important;max-width:none!important;margin:0 0 3mm!important;orphans:3;widows:3;}
+  .article-body strong {color:#182f26!important;}
+  a {color:#1b6c50!important;text-decoration:underline!important;text-decoration-thickness:.4pt!important;overflow-wrap:anywhere;}
+  a[href^="http"]:after {content:none!important;}
+  .keywords {font-size:9pt!important;}
+  .abstract-divider {margin:5mm 0 3mm!important;}
+  #introducao {display:block!important;}
+  .editorial-aside {display:block!important;border-left:2px solid #bf8547!important;padding:2mm 4mm!important;margin:3mm 0!important;break-inside:avoid!important;}
+  .editorial-aside__glyph {font-size:8pt!important;margin:0 0 2mm!important;}
+  .research-box {max-width:none!important;background:none!important;border:0!important;padding:0!important;margin:4mm 0 6mm!important;break-inside:avoid-page!important;}
+  .research-box__header {padding:0!important;margin:0 0 2.5mm!important;}
+  .research-box__header h3 {font:700 14pt/1.3 Georgia,serif!important;color:#163e30!important;margin:1mm 0!important;}
+  .research-box__header p {display:none!important;}
+  .research-box__eyebrow {font:700 7pt Arial,sans-serif!important;color:#31745b!important;}
+  .research-box__list {display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:3mm!important;}
+  .research-box__list li {min-width:0!important;}
+  .research-card {display:block!important;border:1px solid #d6ded5!important;border-left:2.5px solid #C4833C!important;border-radius:3px!important;padding:3mm!important;background:#fff!important;color:#233C36!important;text-decoration:none!important;min-height:24mm!important;}
+  .research-card__top {display:flex!important;justify-content:space-between!important;align-items:center!important;margin-bottom:2mm!important;}
+  .research-box__list .research-card__symbol {width:auto!important;height:auto!important;display:inline!important;font:700 15pt Georgia,serif!important;color:#2c795f!important;background:none!important;}
+  .research-box__list .research-card__id {background:none!important;padding:0!important;font:700 8pt Arial,sans-serif!important;color:#9b662e!important;}
+  .research-card strong {display:block!important;font:700 9pt/1.3 Georgia,serif!important;margin-bottom:1.5mm!important;}
+  .research-card > span:not(.research-card__top):not(.research-card__arrow) {display:block!important;font:7.4pt/1.45 Arial,sans-serif!important;color:#3d584a!important;}
+  #metodologia .reading-column > p {font:9.6pt/1.45 Georgia,serif!important;margin-bottom:2.5mm!important;}
+  .pipeline-figure {margin:3mm 0!important;break-inside:avoid-page!important;}
+  .pipeline {display:grid!important;grid-template-columns:minmax(0,1fr) 9px minmax(0,1fr) 9px minmax(0,1fr) 9px minmax(0,1fr) 9px minmax(0,1fr)!important;gap:1mm!important;padding:2mm!important;background:#e7eee4!important;border:1px solid #d6e0d4!important;}
+  .pipeline__step {display:flex!important;flex-direction:column!important;text-align:center!important;align-items:center!important;justify-content:center!important;gap:1mm!important;min-height:18mm!important;padding:2mm 1mm!important;background:#fff!important;border-radius:2px!important;}
+  .pipeline__step svg {width:14px!important;height:14px!important;}
+  .pipeline__step strong {font:700 9pt Georgia,serif!important;}
+  .pipeline__step span {display:block!important;font:7pt/1.2 Arial,sans-serif!important;}
+  .pipeline__arrow {transform:none!important;font:13pt/1 Arial,sans-serif!important;}
+  figcaption {font:8pt/1.35 Georgia,serif!important;color:#475e51!important;margin:2mm 0!important;}
+  .method-principle--compact {display:none!important;} /* Conceito esclarecido no texto e na legenda da figura 4. */
+  .finding {padding:3mm 0 4mm!important;margin:4mm 0!important;border-top:1px solid #dce4db!important;}
+  .finding__eyebrow,.chart-kicker {font:700 7.2pt Arial,sans-serif!important;letter-spacing:.1em!important;color:#37715a!important;margin:0 0 1mm!important;}
+  .finding h3 {font:700 15.5pt/1.22 Georgia,serif!important;margin:1mm 0 3mm!important;color:#183d31!important;break-after:avoid-page!important;}
+  .finding__intro > p:not(.finding__eyebrow) {font-size:9.8pt!important;}
+  .scientific-figure {margin:3.3mm 0 4mm!important;max-width:none!important;break-inside:avoid-page!important;page-break-inside:avoid!important;}
+  .scientific-figure__panel {background:#fff!important;border:1px solid #d7e0d7!important;padding:3.5mm!important;border-radius:5px!important;box-shadow:none!important;}
+  .chart-heading {margin:0 0 2mm!important;}
+  .chart-heading h4 {font:700 12pt/1.2 Georgia,serif!important;color:#233C36!important;margin:1mm 0!important;}
+  .chart-heading p {font:8pt/1.3 Arial,sans-serif!important;color:#506558!important;margin:0!important;}
+  .interactive-chart {display:none!important;}
+  .print-chart {display:block!important;width:100%!important;max-height:73mm!important;object-fit:contain!important;margin:1mm auto!important;}
+  .finding__discussion {font-size:9.6pt!important;}
+  .comparison-panel {display:grid!important;grid-template-columns:1fr 1.15fr!important;gap:4mm!important;padding:3mm!important;margin:2mm 0 3mm!important;border:1px solid #d6e0d6!important;background:#f1f6ee!important;break-inside:avoid-page!important;}
+  .comparison-panel h4 {font:700 12pt Georgia,serif!important;margin:1mm 0!important;}
+  .comparison-panel p {font:8pt/1.35 Arial,sans-serif!important;}
+  .comparison-panel__values {display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:3mm!important;}
+  .comparison-panel__values > div {padding:3mm!important;border:1px solid #d6e0d6!important;background:#fff!important;}
+  .comparison-panel__values strong {font:700 16pt Georgia,serif!important;color:#174634!important;}
+  .comparison-panel__values span,.comparison-panel__values small {font:7.5pt/1.3 Arial,sans-serif!important;}
+  .insight-note {display:block!important;margin:3mm 0!important;padding:2.5mm 4mm!important;background:#f1f5ec!important;border-left:2px solid #C4833C!important;break-inside:avoid-page!important;}
+  .insight-note strong {font:700 11pt Georgia,serif!important;}
+  .insight-note p {font-size:8.8pt!important;margin:1mm 0 0!important;}
+  .data-method {margin:3mm 0!important;padding:3mm!important;background:#f6f8f3!important;border:1px solid #e0e6df!important;break-inside:avoid!important;}
+  #disponibilidade .fair-rows {margin:3mm 0!important;background:#fff!important;border:1px solid #d8e1d8!important;border-radius:0!important;break-inside:avoid-page!important;}
+  #disponibilidade .fair-rows > div {grid-template-columns:31mm 1fr!important;padding:1.5mm 3mm!important;gap:3mm!important;border-bottom:1px solid #e3eae3!important;}
+  #disponibilidade .fair-rows dt {font:700 8.5pt Arial,sans-serif!important;}
+  #disponibilidade .fair-rows dt span {width:19px!important;height:19px!important;}
+  #disponibilidade .fair-rows dd {font:8.4pt/1.3 Arial,sans-serif!important;}
+  .replication-details {display:block!important;margin:3mm 0!important;padding:0!important;border:0!important;background:#fff!important;overflow:visible!important;break-inside:avoid-page!important;}
+  .replication-details__body {display:block!important;padding:0!important;}
+  .replication-details__body > p {display:none!important;}
+  .replication-details .code-panel {margin:0!important;border:1px solid #dbe3da!important;background:#f3f6f1!important;}
+  .code-panel__top {font:700 7.2pt Arial,sans-serif!important;padding:1.6mm 2mm!important;background:#e6eee6!important;}
+  .code-panel pre {font:7.6pt/1.42 Consolas,monospace!important;padding:2mm 3mm!important;white-space:pre-wrap!important;}
+  #disponibilidade .csv-collections {display:none!important;} /* CSVs citados no artigo: disponíveis em HTML. */
+  #disponibilidade .licensing {font-size:8.6pt!important;margin:2mm 0!important;}
+  .glossary-section {display:none!important;} /* Conteúdo auxiliar online; artigo PDF mantém resumo e metodologia. */
+  .references li {font:9pt/1.42 Georgia,serif!important;margin:0 0 3mm!important;overflow-wrap:anywhere;}
+  .references {margin:3mm 0!important;padding-left:7mm!important;}
+  #referencias h2 {break-after:avoid-page!important;}
+  #referencias {break-before:auto!important;}
+  h1,h2,h3,h4,figure,figcaption {orphans:2;widows:2;}
+}
+@media print {
+  /* A seção auxiliar do glossário permanece somente no artigo web. */
+  .article-body > .glossary-section {display:none!important;}
+  /* Referências em página própria, sem dividir a bibliografia pelo rodapé. */
+  .article-body > #referencias {break-before:page!important;page-break-before:always!important;}
+}
+@media print {.print-caption-note {display:inline!important;font-style:italic!important;font-size:7.3pt!important;color:#54715e!important;}}
+/* v5.0: evitar título FAIR isolado no rodapé e eliminar instruções de interação do PDF. */
+@media print {
+  #disponibilidade {break-before:page!important;page-break-before:always!important;}
+  .chart-heading > div > p {display:none!important;}
+  .opening-deck {font-size:9.4pt!important;line-height:1.45!important;margin:3mm 0!important;color:#4e6657!important;}
+  .opening-meta {display:flex!important;align-items:center!important;gap:5mm!important;margin:0!important;}
+  .opening-meta__source {font:8pt Arial,sans-serif!important;color:#64786b!important;}
+}
+
+/* Revisão final: links bibliográficos legíveis, trecho ETL e paleta neutra na impressão. */
+@media print {
+  .method-code-sample {display:block!important;max-width:none!important;margin:3mm 0!important;padding:2.4mm 3mm!important;border:1px solid #d9dfdb!important;background:#fafafa!important;border-radius:2px!important;break-inside:avoid-page!important;}
+  .method-code-sample__title {font:700 9pt Arial,sans-serif!important;color:#213c36!important;margin:0 0 1.5mm!important;}
+  .method-code-sample pre {font:7.1pt/1.25 Consolas,monospace!important;white-space:pre-wrap!important;background:#f4f4f4!important;padding:2.5mm!important;margin:0!important;color:#222!important;}
+  .method-code-sample__note {font:7.4pt/1.28 Arial,sans-serif!important;color:#555!important;margin:1.5mm 0 0!important;}
+  .references--abnt {list-style:none!important;padding:0!important;margin:4mm 0 0!important;}
+  .references--abnt li {font:8.25pt/1.37 Georgia,serif!important;text-align:left!important;margin:0 0 3.6mm!important;padding:0!important;break-inside:avoid!important;overflow-wrap:anywhere!important;}
+  .references--abnt li a {font:7.3pt/1.28 Arial,sans-serif!important;color:#283d4a!important;text-decoration:none!important;overflow-wrap:anywhere!important;word-break:break-all!important;}
+  #referencias .reference-intro {font:8.3pt/1.4 Arial,sans-serif!important;color:#505a55!important;}
+  .overview-metric--accent {background:#f5f0e8!important;}
+}
+
+@media print { #abstract-title {break-before:page!important;page-break-before:always!important;} }

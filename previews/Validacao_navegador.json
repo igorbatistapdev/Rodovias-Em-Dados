@@ -1,0 +1,39 @@
+{
+  "1440": {
+    "scroll": 1440,
+    "client": 1440,
+    "figures": 1,
+    "refs": 7,
+    "code": true,
+    "errors": [],
+    "monthly_points": 36,
+    "metric_color": "#BA704C",
+    "type_rows": 7,
+    "weekdays": 7,
+    "roads": 9
+  },
+  "768": {
+    "scroll": 768,
+    "client": 768,
+    "figures": 1,
+    "refs": 7,
+    "code": true,
+    "errors": []
+  },
+  "390": {
+    "scroll": 390,
+    "client": 390,
+    "figures": 1,
+    "refs": 7,
+    "code": true,
+    "errors": []
+  },
+  "360": {
+    "scroll": 360,
+    "client": 360,
+    "figures": 1,
+    "refs": 7,
+    "code": true,
+    "errors": []
+  }
+}

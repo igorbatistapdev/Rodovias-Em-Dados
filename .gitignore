@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+.env
+# Bases individuais descompactadas não devem entrar no Git
+*.csv.bak
+data/raw/*.csv
