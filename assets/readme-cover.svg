@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="454" viewBox="0 0 1280 454" role="img" aria-labelledby="title desc">
+  <title id="title">Rodovias em Dados</title>
+  <desc id="desc">Capa editorial verde-floresta com título, recorte 2023 a 2025 e indicadores dos registros oficiais da Polícia Rodoviária Federal.</desc>
+  <rect width="1280" height="454" rx="10" fill="#19392F"/>
+  <path d="M30 0h8v454h-8z" fill="#CDA16B"/>
+  <path d="M0 392h1280" stroke="#567164" stroke-width="1" opacity=".63"/>
+  <path d="M0 78h1280" stroke="#567164" stroke-width="1" opacity=".25"/>
+  <path d="M794 84v282" stroke="#718B7D" stroke-width="1" opacity=".55"/>
+  <g fill="none" stroke="#A6C0AB" opacity=".13" stroke-width="2">
+    <path d="M0 430C150 354 209 390 345 287S559 256 707 142"/>
+    <path d="M1208 0C1134 99 1090 128 1010 212S920 366 841 454"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="53" fill="#E8C99B" font-size="15" letter-spacing="2.6" font-weight="700">PESQUISA CIENTÍFICA   /   BRASIL · 2023–2025</text>
+    <text x="80" y="150" fill="#FFFDF7" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Rodovias</text>
+    <text x="80" y="226" fill="#FFFDF7" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">em Dados</text>
+    <path d="M80 260h56" stroke="#D7AB74" stroke-width="4"/>
+    <text x="80" y="308" fill="#DFE7DF" font-size="22">Análise temporal, estatística e territorial</text>
+    <text x="80" y="338" fill="#DFE7DF" font-size="22">dos sinistros nas rodovias federais brasileiras.</text>
+    <text x="80" y="421" fill="#DAE6DD" font-size="15" letter-spacing=".65">IGOR BATISTA PEREIRA    ·    UNILASALLE RJ    ·    DADOS ABERTOS PRF</text>
+    <text x="840" y="115" fill="#D8CDB8" font-size="15" letter-spacing="1.1">SINISTROS ANALISADOS</text>
+    <text x="840" y="161" fill="#FFFFFF" font-family="Georgia, serif" font-size="48">213.497</text>
+    <path d="M840 180h334" stroke="#789286" stroke-width="1" opacity=".56"/>
+    <text x="840" y="210" fill="#D8CDB8" font-size="15" letter-spacing="1.1">MORTES REGISTRADAS</text>
+    <text x="840" y="257" fill="#FFFFFF" font-family="Georgia, serif" font-size="48">17.833</text>
+    <path d="M840 275h334" stroke="#789286" stroke-width="1" opacity=".56"/>
+    <text x="840" y="305" fill="#D8CDB8" font-size="15" letter-spacing="1.1">PESSOAS FERIDAS</text>
+    <text x="840" y="354" fill="#FFFFFF" font-family="Georgia, serif" font-size="48">246.608</text>
+    <text x="838" y="421" fill="#D5DED6" font-size="14">Microdados de ocorrências · PRF/BAT</text>
+  </g>
+</svg>
